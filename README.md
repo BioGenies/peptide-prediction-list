@@ -30,3 +30,10 @@ This curated list collects software dedicated to predicting specific properties 
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
 
 ## Anticancer peptides (ACP)
+
+
+## Neuropeptides (NP)
+
+1. NeuroPP (2019): [publication](https://doi.org/10.1007/s12539-018-0287-2); [web server](http://i.uestc.edu.cn/neuropeptide/neuropp/home.html).
+1. PredNeuroP (2020): [publication](https://doi.org/10.1021/acs.jproteome.0c00276); [repository](https://github.com/xialab-ahu/PredNeuroP).
+
