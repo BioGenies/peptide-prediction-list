@@ -2,6 +2,12 @@
 
 This curated list collects software dedicated to predicting specific properties of peptides.
 
+## Anticancer peptides (ACP)
+
+## Antifungal peptides (AFP)
+
+## Antiinflammatory peptides (AIP)
+
 ## Antimicrobial peptides (AMP)
 
 1. ACEP (2020): [publication](https://doi.org/10.1186/s12864-020-06978-0); [repository](https://github.com/Fuhaoyi/ACEP).
@@ -29,8 +35,9 @@ This curated list collects software dedicated to predicting specific properties 
 1. Wang et al. (2011): [publication](https://doi.org/10.1371/journal.pone.0018476).
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
 
-## Anticancer peptides (ACP)
+## Antiviral peptides
 
+## Anti-multiclass peptides
 
 ## Neuropeptides (NP)
 
