@@ -25,6 +25,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. CS-AMPPred (2012): [publication](https://doi.org/10.1371/journal.pone.0051444); [standalone software](https://sourceforge.net/projects/csamppred/).
 1. dbAMP (2019): [publication](10.1093/nar/gky1030); [web server](http://csb.cse.yzu.edu.tw/dbAMP/).
 1. Deep-AmPEP30 (2020): [publication](https://doi.org/10.1016/j.omtn.2020.05.006); [web server](https://cbbio.online/AxPEP/).
+1. Ensemble-AMPPred (2021): [publication](https://doi.org/10.3390/genes12020137).
 1. iAMP-2L (2013): [publication](https://doi.org/10.1016/j.ab.2013.01.019); [web server](http://www.jci-bioinfo.cn/iAMP-2L).
 1. IAMPE (2020): [publication](https://doi.org/10.1021/acs.jcim.0c00841); [web server](http://cbb1.ut.ac.ir/).
 1. Maccari et al. (2013): [publication](https://doi.org/10.1371/journal.pcbi.1003212).
