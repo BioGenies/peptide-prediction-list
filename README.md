@@ -4,6 +4,8 @@ This curated list collects software dedicated to predicting specific properties 
 
 ## Anticancer peptides (ACP)
 
+1. mACPpred (2019): [publication](https://www.mdpi.com/1422-0067/20/8/1964); [web server](http://www.thegleelab.org/mACPpred).
+
 ## Antifungal peptides (AFP)
 
 ## Antiinflammatory peptides (AIP)
