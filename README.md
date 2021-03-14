@@ -4,7 +4,31 @@ This curated list collects software dedicated to predicting specific properties 
 
 ## Anticancer peptides (ACP)
 
+1. ACP-DL (2019): [publication](https://doi.org/10.1016/j.omtn.2019.04.025); [repository](https://github.com/haichengyi/ACP-DL).
+1. ACPP (2015): [publication](https://doi.org/10.1007/s10989-014-9435-7); [web server](http://acpp.bicpu.edu.in/predict.php).
+1. ACPred (2019): [publication](https://doi.org/10.3390/molecules24101973); [web server](http://codes.bio/acpred).
+1. ACPred-FL (2018): [publication](https://doi.org/10.1093/bioinformatics/bty451); [web server](http://server.malab.cn/ACPred-FL).
+1. ACPred-Fuse (2020): [publication](https://doi.org/10.1093/bib/bbz088); [web server](http://server.malab.cn/ACPred-Fuse).
+1. AntiCP (2013): [publication](https://doi.org/10.1038/srep02984); [web server](http://crdd.osdd.net/raghava/anticp).
+1. AntiCP 2.0 (2020): [publication](https://doi.org/10.1093/bib/bbaa153); [web server](https://webs.iiitd.edu.in/raghava/anticp2).
+1. cACP-2LFS (2020): [publication](http://doi.org/10.1109/ACCESS.2020.3009125); [repository](https://github.com/shahidawkum/cACP-2LFS).
+1. CancerGram (2020): [publication](https://www.mdpi.com/1999-4923/12/11/1045); [web server](http://biongram.biotech.uni.wroc.pl/CancerGram); [repository](https://github.com/BioGenies/CancerGram-analysis).
+1. DeepACP (2020): [publication](https://doi.org/10.1016/j.omtn.2020.10.005); [repository](https://github.com/jingry/autoBioSeqpy/tree/master/examples/anticancer_peptide_prediction).
+1. DLACP (2020): [publication](http://doi.org/10.1109/BIBM49941.2020.9313572).
+1. DRACP (2020): [publication](https://doi.org/10.1186/s12859-020-03812-y); [repository](https://github.com/zty2009/ACP).
+1. Hajisharifi et al. (2013): [publication](https://doi.org/10.1016/j.jtbi.2013.08.037).
+1. iACP (2016): [publication](https://doi.org/10.18632/oncotarget.7815); [web server](http://lin-group.cn/server/iACP).
+1. iACP-DRLF (2021): [publication](https://doi.org/10.1093/bib/bbab008); [repository](https://github.com/zhibinlv/iACP-DRLF).
+1. iACP-FSCM (2021): [publication](https://doi.org/10.1038/s41598-021-82513-9); [web server](http://camt.pythonanywhere.com/iACP-FSCM); [repository](https://github.com/Shoombuatong/Dataset-Code/tree/master/iACP-FSCM).
+1. iACP-GAEnsC (2017): [publication](https://doi.org/10.1016/j.artmed.2017.06.008).
+1. Khan et al. (2017): [publication](https://doi.org/10.1145/3168776.3168787).
+1. Li & Wang (2016): [publication](https://doi.org/10.1038/srep33910).
+1. Li et al. (2020): [publication](https://doi.org/10.3389/fbioe.2020.00892).
 1. mACPpred (2019): [publication](https://www.mdpi.com/1422-0067/20/8/1964); [web server](http://www.thegleelab.org/mACPpred).
+1. MLACP (2017): [publication](https://doi.org/10.18632/oncotarget.20365); [web server](http://www.thegleelab.org/MLACP/MLACP.html).
+1. SAP (2018): [publication](https://doi.org/10.3390/genes9030158).
+1. TargetACP (2018): [publication](https://doi.org/10.1016/j.chemolab.2018.09.007)
+
 
 ## Antifungal peptides (AFP)
 
