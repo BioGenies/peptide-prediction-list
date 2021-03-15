@@ -32,13 +32,27 @@ This curated list collects software dedicated to predicting specific properties 
 
 ## Antifungal peptides (AFP)
 
+1. Antifp (2018): [publication](https://doi.org/10.3389/fmicb.2018.00323); [web server](https://webs.iiitd.edu.in/raghava/antifp).
+1. Deep-AntiFP (2021): [publication](https://doi.org/10.1016/j.chemolab.2020.104214); [repository](https://github.com/shahidawkum/Deep-AntiFP).
+1. Mousavizadegan & Mohabatkar (2018): [publication](http://doi.org/10.1142/S0219720018500166).
+
+
 ## Antiinflammatory peptides (AIP)
+
+1. AIEpred (2020): [publication](https://doi.org/10.1109/TCBB.2020.2968419); [repository](https://github.com/guofei-tju/Ensemble-classifier-chain-model).
+1. AntiInflam (2017): [publication](https://doi.org/10.1186/s12967-016-1103-6); [web server](http://metagenomics.iiserb.ac.in/antiinflam).
+1. AIPpred (2018): [publication](https://doi.org/10.3389/fphar.2018.00276); [web server](http://www.thegleelab.org/AIPpred).
+1. PreAIP (2019): [publication](https://doi.org/10.3389/fgene.2019.00129); [web server](http://kurata14.bio.kyutech.ac.jp/PreAIP).
+
 
 ## Antimicrobial peptides (AMP)
 
 1. ACEP (2020): [publication](https://doi.org/10.1186/s12864-020-06978-0); [repository](https://github.com/Fuhaoyi/ACEP).
+1. ADAM (2015): [publication](https://doi.org/10.1155/2015/475062); [web server](http://bioinformatics.cs.ntou.edu.tw/adam/tool.html).
+1. AMPA (2012): [publication](https://doi.org/10.1093/bioinformatics/btr604); [web server](http://tcoffee.crg.cat/apps/ampa/do).
 1. AMAP (2019): [publication](https://doi.org/10.1016/j.compbiomed.2019.02.018); [web server](http://amap.pythonanywhere.com/).
 1. AmPEP (2018): [publication](https://doi.org/10.1038/s41598-018-19752-w); [repository](https://github.com/siuwengin/AmPEP); [web server](https://cbbio.online/AxPEP/).
+1. amPEPpy 1.0 (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa917); [repository](https://github.com/tlawrence3/amPEPpy).
 1. AMP-GAN (2020): [publication](https://doi.org/10.1101/2020.10.02.324087).
 1. AmpGram (2020): [publication](https://doi.org/10.3390/ijms21124310); [repository: training of the model](https://github.com/michbur/AmpGram-analysis); [repository: R package](https://github.com/michbur/AmpGram); [web server](http://biongram.biotech.uni.wroc.pl/AmpGram/).
 1. Ampir (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa653); [repository: training of the models](https://github.com/Legana/AMP_pub); [repository: R package](https://github.com/Legana/ampir).
@@ -49,6 +63,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. CAMPR3 (2016): [publication](https://doi.org/10.1093/nar/gkv1051); [web server](http://www.camp.bicnirrh.res.in/predict/).
 1. ClassAMP (2012): [publication](https://doi.org/10.1109/TCBB.2012); [web server](http://www.bicnirrh.res.in/classamp/predict.php).
 1. CS-AMPPred (2012): [publication](https://doi.org/10.1371/journal.pone.0051444); [standalone software](https://sourceforge.net/projects/csamppred/).
+1. DBAASP (): [publication](https://doi.org/10.1111/1574-6968.12489); [web server](https://dbaasp.org/prediction/general).
 1. dbAMP (2019): [publication](10.1093/nar/gky1030); [web server](http://csb.cse.yzu.edu.tw/dbAMP/).
 1. Deep-AmPEP30 (2020): [publication](https://doi.org/10.1016/j.omtn.2020.05.006); [web server](https://cbbio.online/AxPEP/).
 1. Ensemble-AMPPred (2021): [publication](https://doi.org/10.3390/genes12020137); [standalone software](http://ncrna-pred.com/Hybrid_AMPPred.htm).
@@ -62,9 +77,20 @@ This curated list collects software dedicated to predicting specific properties 
 1. Wang et al. (2011): [publication](https://doi.org/10.1371/journal.pone.0018476).
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
 
+
 ## Antiviral peptides
 
+1. AntiVPP 1.0 (2019): [publication](https://doi.org/10.1016/j.compbiomed.2019.02.011); [repository](https://github.com/bio-coding/AntiVPP).
+1. AVP‐IC50Pred: (2015); [publication](https://doi.org/10.1002/bip.22703); [web server](http://crdd.osdd.net/servers/ic50avp).
+1. AVPpred (2012): [publication](https://doi.org/10.1093/nar/gks450); [web server](http://crdd.osdd.net/servers/avppred).
+1. DeepAVP (2020): [publication](https://doi.org/10.1109/JBHI.2020.2977091); [web server](http://www.lbci.cn/deepavp/index.html).
+1. FIRM-AVP (2020): [publication](https://doi.org/10.1038/s41598-020-76161-8); [web server](https://msc-viz.emsl.pnnl.gov/AVPR/); [repository](https://github.com/pmartR/FIRM-AVP).
+1. Meta-iAVP (2019): [publication](https://doi.org/10.3390/ijms20225743); [web server](http://codes.bio/meta-iavp).
+
+
 ## Anti-multiclass peptides
+
+1. iAMPpred (2017) - antibacterial, antiviral, antifungal: [publication](https://doi.org/10.1038/srep42362); [web server](http://cabgrid.res.in:8080/amppred).
 
 ## Neuropeptides (NP)
 
