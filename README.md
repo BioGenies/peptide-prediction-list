@@ -3,8 +3,8 @@
 This curated list collects software dedicated to predicting specific properties of peptides.
 
 
-- [Anticancer peptides (ACP)](#anticancer-peptides-(acp))
-- [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-(aip))
+- [Anticancer peptides (ACP)](#anticancer-peptides-acp)
+- [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-aip)
 
 ## Anticancer peptides (ACP)
 
