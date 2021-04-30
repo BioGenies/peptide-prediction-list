@@ -4,7 +4,12 @@ This curated list collects software dedicated to predicting specific properties 
 
 
 - [Anticancer peptides (ACP)](#anticancer-peptides-acp)
+- [Antifungal peptides (AFP)](#antifungal-peptides-afp)
 - [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-aip)
+- [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)
+- [Antiviral peptides (AVP)](#antiviral-peptides-avp)
+- [Anti-multiclass peptides](#anti-multiclass-peptides)
+- [Neuropeptides (NP)](#neuropeptides-np)
 
 ## Anticancer peptides (ACP)
 
@@ -82,7 +87,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
 
 
-## Antiviral peptides
+## Antiviral peptides (AVP)
 
 1. AntiVPP 1.0 (2019): [publication](https://doi.org/10.1016/j.compbiomed.2019.02.011); [repository](https://github.com/bio-coding/AntiVPP).
 1. AVP‐IC50Pred: (2015); [publication](https://doi.org/10.1002/bip.22703); [web server](http://crdd.osdd.net/servers/ic50avp).
