@@ -2,6 +2,10 @@
 
 This curated list collects software dedicated to predicting specific properties of peptides.
 
+
+- [Anticancer peptides (ACP)](#Anticancer-peptides-(ACP))
+- [Antiinflammatory peptides (AIP)](#Antiinflammatory-peptides-(AIP))
+
 ## Anticancer peptides (ACP)
 
 1. ACP-DL (2019): [publication](https://doi.org/10.1016/j.omtn.2019.04.025); [repository](https://github.com/haichengyi/ACP-DL).
