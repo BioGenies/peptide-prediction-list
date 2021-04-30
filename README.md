@@ -68,11 +68,12 @@ This curated list collects software dedicated to predicting specific properties 
 1. AMPlify (2020): [publication](https://doi.org/10.1101/2020.06.16.155705); [repository](https://github.com/bcgsc/AMPlify).
 1. AMPScanner V2 (2018): [publication](https://doi.org/10.1093/bioinformatics/bty179).
 1. ANFIS (2012): [publication](https://doi.org/10.1002/bip.22066).
+1. APIN (2019): [publication](https://doi.org/10.1186/s12859-019-3327-y); [repository](https://github.com/zhanglabNKU/APIN).
 1. CAMP (2010): [publication](https://doi.org/10.1093/nar/gkp1021).
 1. CAMPR3 (2016): [publication](https://doi.org/10.1093/nar/gkv1051); [web server](http://www.camp.bicnirrh.res.in/predict/).
 1. ClassAMP (2012): [publication](https://doi.org/10.1109/TCBB.2012); [web server](http://www.bicnirrh.res.in/classamp/predict.php).
 1. CS-AMPPred (2012): [publication](https://doi.org/10.1371/journal.pone.0051444); [standalone software](https://sourceforge.net/projects/csamppred/).
-1. DBAASP (): [publication](https://doi.org/10.1111/1574-6968.12489); [web server](https://dbaasp.org/prediction/general).
+1. DBAASP (2014): [publication](https://doi.org/10.1111/1574-6968.12489); [web server](https://dbaasp.org/prediction/general).
 1. dbAMP (2019): [publication](10.1093/nar/gky1030); [web server](http://csb.cse.yzu.edu.tw/dbAMP/).
 1. Deep-AmPEP30 (2020): [publication](https://doi.org/10.1016/j.omtn.2020.05.006); [web server](https://cbbio.online/AxPEP/).
 1. Ensemble-AMPPred (2021): [publication](https://doi.org/10.3390/genes12020137); [standalone software](http://ncrna-pred.com/Hybrid_AMPPred.htm).
