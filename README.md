@@ -18,6 +18,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. ACPred (2019): [publication](https://doi.org/10.3390/molecules24101973); [web server](http://codes.bio/acpred).
 1. ACPred-FL (2018): [publication](https://doi.org/10.1093/bioinformatics/bty451); [web server](http://server.malab.cn/ACPred-FL).
 1. ACPred-Fuse (2020): [publication](https://doi.org/10.1093/bib/bbz088); [web server](http://server.malab.cn/ACPred-Fuse).
+1. AMP0 (2019): [publication](https://ieeexplore.ieee.org/document/9106755); [web server](http://ampzero.pythonanywhere.com).
 1. AntiCP (2013): [publication](https://doi.org/10.1038/srep02984); [web server](http://crdd.osdd.net/raghava/anticp).
 1. AntiCP 2.0 (2020): [publication](https://doi.org/10.1093/bib/bbaa153); [web server](https://webs.iiitd.edu.in/raghava/anticp2).
 1. cACP-2LFS (2020): [publication](http://doi.org/10.1109/ACCESS.2020.3009125); [repository](https://github.com/shahidawkum/cACP-2LFS).
