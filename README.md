@@ -87,6 +87,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. Ng et al. (2015): [publication](https://doi.org/10.1155/2015/212715).
 1. Wang et al. (2011): [publication](https://doi.org/10.1371/journal.pone.0018476).
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
+1. Zhang et al. (2021): [publication](https://doi.org/10.1093/bib/bbab200); [repository](https://github.com/BioSequenceAnalysis/Bert-Protein).
 
 
 ## Antiviral peptides (AVP)
