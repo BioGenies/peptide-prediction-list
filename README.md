@@ -64,6 +64,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. AmPEP (2018): [publication](https://doi.org/10.1038/s41598-018-19752-w); [repository](https://github.com/siuwengin/AmPEP); [web server](https://cbbio.online/AxPEP/).
 1. amPEPpy 1.0 (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa917); [repository](https://github.com/tlawrence3/amPEPpy).
 1. AMP-GAN (2020): [publication](https://doi.org/10.1101/2020.10.02.324087).
+1. AMPGAN v2 (2021): [pre-print](https://doi.org/10.1101/2020.11.18.388843).
 1. AmpGram (2020): [publication](https://doi.org/10.3390/ijms21124310); [repository: training of the model](https://github.com/michbur/AmpGram-analysis); [repository: R package](https://github.com/michbur/AmpGram); [web server](http://biongram.biotech.uni.wroc.pl/AmpGram/).
 1. Ampir (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa653); [repository: training of the models](https://github.com/Legana/AMP_pub); [repository: R package](https://github.com/Legana/ampir).
 1. AMPlify (2020): [publication](https://doi.org/10.1101/2020.06.16.155705); [repository](https://github.com/bcgsc/AMPlify).
@@ -78,6 +79,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. dbAMP (2019): [publication](10.1093/nar/gky1030); [web server](http://csb.cse.yzu.edu.tw/dbAMP/).
 1. Deep-AmPEP30 (2020): [publication](https://doi.org/10.1016/j.omtn.2020.05.006); [web server](https://cbbio.online/AxPEP/).
 1. Ensemble-AMPPred (2021): [publication](https://doi.org/10.3390/genes12020137); [standalone software](http://ncrna-pred.com/Hybrid_AMPPred.htm).
+1. Ferrell et al. (2021): [pre-print](https://doi.org/10.1101/2020.10.02.324087).
 1. iAMP-2L (2013): [publication](https://doi.org/10.1016/j.ab.2013.01.019); [web server](http://www.jci-bioinfo.cn/iAMP-2L).
 1. IAMPE (2020): [publication](https://doi.org/10.1021/acs.jcim.0c00841); [web server](http://cbb1.ut.ac.ir/).
 1. Maccari et al. (2013): [publication](https://doi.org/10.1371/journal.pcbi.1003212).
@@ -85,6 +87,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. MAMPs-Pred (2019): [publication](https://doi.org/10.1186/s12859-019-2766-9).
 1. MLAMP (2016): [publication](https://doi.org/10.1093/bioinformatics/btw560); [web server](http://www.jci-bioinfo.cn/MLAMP).
 1. Ng et al. (2015): [publication](https://doi.org/10.1155/2015/212715).
+1. PepVAE3 (2021): [pre-print](https://doi.org/10.1101/2021.04.07.438720).
 1. Wang et al. (2011): [publication](https://doi.org/10.1371/journal.pone.0018476).
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
 1. Zhang et al. (2021): [publication](https://doi.org/10.1093/bib/bbab200); [repository](https://github.com/BioSequenceAnalysis/Bert-Protein).
@@ -98,6 +101,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. DeepAVP (2020): [publication](https://doi.org/10.1109/JBHI.2020.2977091); [web server](http://www.lbci.cn/deepavp/index.html).
 1. FIRM-AVP (2020): [publication](https://doi.org/10.1038/s41598-020-76161-8); [web server](https://msc-viz.emsl.pnnl.gov/AVPR/); [repository](https://github.com/pmartR/FIRM-AVP).
 1. Meta-iAVP (2019): [publication](https://doi.org/10.3390/ijms20225743); [web server](http://codes.bio/meta-iavp).
+1. PandoraGAN (2021): [publication](https://doi.org/10.1101/2021.02.15.431193); [repository](https://gitlab.com/shraddha.surana/antiviral-peptide-predictions-using-gan); [web server](https://pandora-gan.herokuapp.com/).
 
 
 ## Anti-multiclass peptides
