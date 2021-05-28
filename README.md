@@ -71,6 +71,7 @@ This curated list collects software dedicated to predicting specific properties 
 1. AMPScanner V2 (2018): [publication](https://doi.org/10.1093/bioinformatics/bty179).
 1. ANFIS (2012): [publication](https://doi.org/10.1002/bip.22066).
 1. APIN (2019): [publication](https://doi.org/10.1186/s12859-019-3327-y); [repository](https://github.com/zhanglabNKU/APIN).
+1. Bacteriocin classifier v2.0 (2019): [thesis](https://github.com/lassebuurrasmussen/bacteriocin_classifier_v2.0/blob/master/paper/thesis.pdf); [repository](https://github.com/lassebuurrasmussen/bacteriocin_classifier_v2.0).
 1. CAMP (2010): [publication](https://doi.org/10.1093/nar/gkp1021).
 1. CAMPR3 (2016): [publication](https://doi.org/10.1093/nar/gkv1051); [web server](http://www.camp.bicnirrh.res.in/predict/).
 1. ClassAMP (2012): [publication](https://doi.org/10.1109/TCBB.2012); [web server](http://www.bicnirrh.res.in/classamp/predict.php).
