@@ -59,8 +59,9 @@ This curated list collects software dedicated to predicting specific properties 
 
 1. ACEP (2020): [publication](https://doi.org/10.1186/s12864-020-06978-0); [repository](https://github.com/Fuhaoyi/ACEP).
 1. ADAM (2015): [publication](https://doi.org/10.1155/2015/475062); [web server](http://bioinformatics.cs.ntou.edu.tw/adam/tool.html).
-1. AMPA (2012): [publication](https://doi.org/10.1093/bioinformatics/btr604); [web server](http://tcoffee.crg.cat/apps/ampa/do).
 1. AMAP (2019): [publication](https://doi.org/10.1016/j.compbiomed.2019.02.018); [web server](http://amap.pythonanywhere.com/).
+1. AMPA (2012): [publication](https://doi.org/10.1093/bioinformatics/btr604); [web server](http://tcoffee.crg.cat/apps/ampa/do).
+1. AMPDiscover (2021): [publication](https://doi.org/10.1021/acs.jcim.1c00251); [web server](https://biocom-ampdiscover.cicese.mx/).
 1. AmPEP (2018): [publication](https://doi.org/10.1038/s41598-018-19752-w); [repository](https://github.com/siuwengin/AmPEP); [web server](https://cbbio.online/AxPEP/).
 1. amPEPpy 1.0 (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa917); [repository](https://github.com/tlawrence3/amPEPpy).
 1. AMP-GAN (2020): [publication](https://doi.org/10.1101/2020.10.02.324087).
