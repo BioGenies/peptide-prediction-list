@@ -109,6 +109,7 @@ This curated list collects software dedicated to predicting specific properties 
 ## Anti-multiclass peptides
 
 1. iAMPpred (2017) - antibacterial, antiviral, antifungal: [publication](https://doi.org/10.1038/srep42362); [web server](http://cabgrid.res.in:8080/amppred).
+1. PEPred-Suite (2019) - antiangiogenic, antibacterial, antiinflammatory, antiviral, antifungal, cell-penetrating, quorum sensing, surface-binding peptides: [publication](https://doi.org/10.1093/bioinformatics/btz246); [web server](http://server.malab.cn/PEPred-Suite/).
 
 ## Neuropeptides (NP)
 
