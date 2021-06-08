@@ -2,7 +2,7 @@
 
 This curated list collects software dedicated to predicting specific properties of peptides.
 
-
+- [Antibacterial peptides (ABC)](#antibacterial-peptides-abc)
 - [Anticancer peptides (ACP)](#anticancer-peptides-acp)
 - [Antifungal peptides (AFP)](#antifungal-peptides-afp)
 - [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-aip)
@@ -10,6 +10,10 @@ This curated list collects software dedicated to predicting specific properties 
 - [Antiviral peptides (AVP)](#antiviral-peptides-avp)
 - [Anti-multiclass peptides](#anti-multiclass-peptides)
 - [Neuropeptides (NP)](#neuropeptides-np)
+
+## Antibacterial peptides (ABP)
+
+1. Deep-ABPpred (2021): [publication](https://doi.org/10.1093/bib/bbab065); [web server](https://abppred.anvil.app/).
 
 ## Anticancer peptides (ACP)
 
