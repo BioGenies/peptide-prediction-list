@@ -2,7 +2,7 @@
 
 This curated list collects software dedicated to predicting specific properties of peptides.
 
-- [Antibacterial peptides (ABC)](#antibacterial-peptides-abc)
+- [Antibacterial peptides (ABP)](#antibacterial-peptides-abp)
 - [Anticancer peptides (ACP)](#anticancer-peptides-acp)
 - [Antifungal peptides (AFP)](#antifungal-peptides-afp)
 - [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-aip)
