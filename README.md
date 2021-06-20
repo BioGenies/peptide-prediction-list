@@ -1,6 +1,6 @@
 # Prediction of peptide properties
 
-This curated list collects software dedicated to predicting specific properties of peptides.
+This curated list collects machine learning models dedicated to predicting specific properties of peptides.
 
 - [Antibacterial peptides (ABP)](#antibacterial-peptides-abp)
 - [Anticancer peptides (ACP)](#anticancer-peptides-acp)
