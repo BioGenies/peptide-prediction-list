@@ -71,7 +71,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. AMP-GAN (2020): [publication](https://doi.org/10.1101/2020.10.02.324087).
 1. AMPGAN v2 (2021): [pre-print](https://doi.org/10.1101/2020.11.18.388843).
 1. AmpGram (2020): [publication](https://doi.org/10.3390/ijms21124310); [repository: training of the model](https://github.com/michbur/AmpGram-analysis); [repository: R package](https://github.com/michbur/AmpGram); [web server](http://biongram.biotech.uni.wroc.pl/AmpGram/).
-1. Ampir (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa653); [repository: training of the models](https://github.com/Legana/AMP_pub); [repository: R package](https://github.com/Legana/ampir).
+1. Ampir (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa653); [repository: training of the models](https://github.com/Legana/AMP_pub); [repository: R package](https://github.com/Legana/ampir); [web server](https://ampir.marine-omics.net/).
 1. AMPlify (2020): [publication](https://doi.org/10.1101/2020.06.16.155705); [repository](https://github.com/bcgsc/AMPlify).
 1. AMPScanner V2 (2018): [publication](https://doi.org/10.1093/bioinformatics/bty179).
 1. ANFIS (2012): [publication](https://doi.org/10.1002/bip.22066).
