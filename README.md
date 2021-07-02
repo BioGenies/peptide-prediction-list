@@ -19,6 +19,7 @@ This curated list collects machine learning models dedicated to predicting speci
 ## Anticancer peptides (ACP)
 
 1. ACP-DL (2019): [publication](https://doi.org/10.1016/j.omtn.2019.04.025); [repository](https://github.com/haichengyi/ACP-DL).
+1. ACP-MHCNN (2020): [pre-print](https://doi.org/10.1101/2020.09.25.313668); [repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN).
 1. ACPP (2015): [publication](https://doi.org/10.1007/s10989-014-9435-7); [web server](http://acpp.bicpu.edu.in/predict.php).
 1. ACPred (2019): [publication](https://doi.org/10.3390/molecules24101973); [web server](http://codes.bio/acpred).
 1. ACPred-FL (2018): [publication](https://doi.org/10.1093/bioinformatics/bty451); [web server](http://server.malab.cn/ACPred-FL).
@@ -106,6 +107,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. AVP‐IC50Pred: (2015); [publication](https://doi.org/10.1002/bip.22703); [web server](http://crdd.osdd.net/servers/ic50avp).
 1. AVPpred (2012): [publication](https://doi.org/10.1093/nar/gks450); [web server](http://crdd.osdd.net/servers/avppred).
 1. DeepAVP (2020): [publication](https://doi.org/10.1109/JBHI.2020.2977091); [web server](http://www.lbci.cn/deepavp/index.html).
+1. ENNAVIA (2021): [pre-print](https://doi.org/10.1101/2021.03.25.436982); [web server](https://research.timmons.eu/ennavia).
 1. FIRM-AVP (2020): [publication](https://doi.org/10.1038/s41598-020-76161-8); [web server](https://msc-viz.emsl.pnnl.gov/AVPR/); [repository](https://github.com/pmartR/FIRM-AVP).
 1. Meta-iAVP (2019): [publication](https://doi.org/10.3390/ijms20225743); [web server](http://codes.bio/meta-iavp).
 1. PandoraGAN (2021): [publication](https://doi.org/10.1101/2021.02.15.431193); [repository](https://gitlab.com/shraddha.surana/antiviral-peptide-predictions-using-gan); [web server](https://pandora-gan.herokuapp.com/).
