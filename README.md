@@ -9,7 +9,7 @@ This curated list collects machine learning models dedicated to predicting speci
 - [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)
 - [Antiviral peptides (AVP)](#antiviral-peptides-avp)
 - [Anti-multiclass peptides](#anti-multiclass-peptides)
-- [Cell-penetrating peptides](#cell-penetrating-peptides-cpp)
+- [Cell-penetrating peptides (CPP)](#cell-penetrating-peptides-cpp)
 - [Neuropeptides (NP)](#neuropeptides-np)
 
 ## Antibacterial peptides (ABP)
