@@ -9,7 +9,7 @@ This curated list collects machine learning models dedicated to predicting speci
 - [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)
 - [Antiviral peptides (AVP)](#antiviral-peptides-avp)
 - [Anti-multiclass peptides](#anti-multiclass-peptides)
-- [Cell-penetrating peptides](#cell-penetrating-peptides)
+- [Cell-penetrating peptides](#cell-penetrating-peptides-cpp)
 - [Neuropeptides (NP)](#neuropeptides-np)
 
 ## Antibacterial peptides (ABP)
@@ -119,7 +119,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. iAMP-CA2L (2021): antibacterial, antiviral peptides, antifungal, antibiofilm, antiparasital, anti-HIV, anticancer, chemotactic, anti-MRSA, antiendotoxin [publication](https://doi.org/10.1093/bib/bbab209); [repository](https://github.com/liujin66/iAMP-CA2L); [web server](http://www.jci-bioinfo.cn/).
 1. PEPred-Suite (2019): antiangiogenic, antibacterial, antiinflammatory, antiviral, antifungal, cell-penetrating, quorum sensing, surface-binding peptides: [publication](https://doi.org/10.1093/bioinformatics/btz246); [web server](http://server.malab.cn/PEPred-Suite/).
 
-## Cell-penetrating peptides
+## Cell-penetrating peptides (CPP)
 
 1. BChemRF-CPPred (2021): [publication](https://doi.org/10.1038/s41598-021-87134-w), [web server](http://comptools.linc.ufpa.br/BChemRF-CPPred).
 1. CellPPDMod (2018): [publication](https://doi.org/10.3389/fmicb.2018.00725), [web server](http://webs.iiitd.edu.in/raghava/cellppdmod/). 
