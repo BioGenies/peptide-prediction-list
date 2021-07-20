@@ -77,6 +77,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. AMPlify (2020): [publication](https://doi.org/10.1101/2020.06.16.155705); [repository](https://github.com/bcgsc/AMPlify).
 1. AMPScanner V2 (2018): [publication](https://doi.org/10.1093/bioinformatics/bty179).
 1. ANFIS (2012): [publication](https://doi.org/10.1002/bip.22066).
+1. AniAMPpred (2021): [publication](https://doi.org/10.1093/bib/bbab242); [web server](https://aniamppred.anvil.app/).
 1. APIN (2019): [publication](https://doi.org/10.1186/s12859-019-3327-y); [repository](https://github.com/zhanglabNKU/APIN).
 1. Bacteriocin classifier v2.0 (2019): [thesis](https://github.com/lassebuurrasmussen/bacteriocin_classifier_v2.0/blob/master/paper/thesis.pdf); [repository](https://github.com/lassebuurrasmussen/bacteriocin_classifier_v2.0).
 1. CAMP (2010): [publication](https://doi.org/10.1093/nar/gkp1021).
