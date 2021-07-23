@@ -127,7 +127,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. CPPred-RF (2017): [publication](https://doi.org/10.1021/acs.jproteome.7b00019); [web server](http://server.malab.cn/CPPred-RF/).
 1. MLCPP (2017): [publication](https://doi.org/10.1021/acs.jproteome.8b00148); [web server](www.thegleelab.org/MLCPP).
 1. SkipCPP-Pred (2017): [publication](https://doi.org/10.1186/s12864-017-4128-1); [web server](http://server.malab.cn/SkipCPP-Pred/Index.html).
-
+1. Yadahalli et al. (2021): [publication](https://doi.org/10.1101/2020.10.15.341149). 
 
 ## Neuropeptides (NP)
 
