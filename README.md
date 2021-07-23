@@ -125,6 +125,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. BChemRF-CPPred (2021): [publication](https://doi.org/10.1038/s41598-021-87134-w), [web server](http://comptools.linc.ufpa.br/BChemRF-CPPred).
 1. CellPPDMod (2018): [publication](https://doi.org/10.3389/fmicb.2018.00725), [web server](http://webs.iiitd.edu.in/raghava/cellppdmod/). 
 1. CPPred-RF (2017): [publication](https://doi.org/10.1021/acs.jproteome.7b00019); [web server](http://server.malab.cn/CPPred-RF/).
+1. MLCPP (2017): [publication](https://doi.org/10.1021/acs.jproteome.8b00148); [web server](www.thegleelab.org/MLCPP).
 1. SkipCPP-Pred (2017): [publication](https://doi.org/10.1186/s12864-017-4128-1); [web server](http://server.malab.cn/SkipCPP-Pred/Index.html).
 
 
