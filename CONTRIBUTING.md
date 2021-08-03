@@ -7,7 +7,8 @@ Your contributions are always welcome!
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add model-name`.
     * Make sure that you are adding a model that is published in a scientific journal or as a pre-print.
-* There are five types of links:
+* There are six types of links:
+    * thesis: link directly to the document.
     * publication: always link to the doi.
     * pre-print: always link to the doi.
     * web server: the web server of the model.
