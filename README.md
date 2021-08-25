@@ -91,6 +91,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. Ensemble-AMPPred (2021): [publication](https://doi.org/10.3390/genes12020137); [standalone software](http://ncrna-pred.com/Hybrid_AMPPred.htm).
 1. Ferrell et al. (2021): [pre-print](https://doi.org/10.1101/2020.10.02.324087).
 1. iAMP-2L (2013): [publication](https://doi.org/10.1016/j.ab.2013.01.019); [web server](http://www.jci-bioinfo.cn/iAMP-2L).
+1. iAMP-CA2L (2021): [publication](https://doi.org/10.1093/bib/bbab209); [repository](https://github.com/liujin66/iAMP-CA2L); [web server](http://www.jci-bioinfo.cn/iAMP-CA2L).
 1. IAMPE (2020): [publication](https://doi.org/10.1021/acs.jcim.0c00841); [web server](http://cbb1.ut.ac.ir/).
 1. Maccari et al. (2013): [publication](https://doi.org/10.1371/journal.pcbi.1003212).
 1. Macrel (2020): [publication](https://doi.org/10.7717/peerj.10555); [repository](https://github.com/BigDataBiology/macrel); [web server](https://big-data-biology.org/software/macrel).
@@ -106,7 +107,8 @@ This curated list collects machine learning models dedicated to predicting speci
 ## Antiviral peptides (AVP)
 
 1. AntiVPP 1.0 (2019): [publication](https://doi.org/10.1016/j.compbiomed.2019.02.011); [repository](https://github.com/bio-coding/AntiVPP).
-1. AVP‐IC50Pred: (2015); [publication](https://doi.org/10.1002/bip.22703); [web server](http://crdd.osdd.net/servers/ic50avp).
+1. AVP‐IC50Pred (2015): [publication](https://doi.org/10.1002/bip.22703); [web server](http://crdd.osdd.net/servers/ic50avp).
+1. AVPIden (2021): [publication](https://doi.org/10.1093/bib/bbab263) ;[web server](https://awi.cuhk.edu.cn/AVPIden/).
 1. AVPpred (2012): [publication](https://doi.org/10.1093/nar/gks450); [web server](http://crdd.osdd.net/servers/avppred).
 1. DeepAVP (2020): [publication](https://doi.org/10.1109/JBHI.2020.2977091); [web server](http://www.lbci.cn/deepavp/index.html).
 1. ENNAVIA (2021): [pre-print](https://doi.org/10.1101/2021.03.25.436982); [web server](https://research.timmons.eu/ennavia).
