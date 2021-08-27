@@ -9,6 +9,7 @@ This curated list collects machine learning models dedicated to predicting speci
 - [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)
 - [Antiviral peptides (AVP)](#antiviral-peptides-avp)
 - [Anti-multiclass peptides](#anti-multiclass-peptides)
+- [Blood-Brain Barrier Peptides (BBP)](#blood-brain-barrier-peptides-bbp)
 - [Cell-penetrating peptides (CPP)](#cell-penetrating-peptides-cpp)
 - [Neuropeptides (NP)](#neuropeptides-np)
 
@@ -120,6 +121,11 @@ This curated list collects machine learning models dedicated to predicting speci
 1. iAMPpred (2017): antibacterial, antiviral, antifungal: [publication](https://doi.org/10.1038/srep42362); [web server](http://cabgrid.res.in:8080/amppred).
 1. iAMP-CA2L (2021): antibacterial, antiviral peptides, antifungal, antibiofilm, antiparasital, anti-HIV, anticancer, chemotactic, anti-MRSA, antiendotoxin [publication](https://doi.org/10.1093/bib/bbab209); [repository](https://github.com/liujin66/iAMP-CA2L); [web server](http://www.jci-bioinfo.cn/).
 1. PEPred-Suite (2019): antiangiogenic, antibacterial, antiinflammatory, antiviral, antifungal, cell-penetrating, quorum sensing, surface-binding peptides: [publication](https://doi.org/10.1093/bioinformatics/btz246); [web server](http://server.malab.cn/PEPred-Suite/).
+
+## Blood-Brain Barrier Peptides (BBP)
+
+1. B3Pred (2021): [publication](https://doi.org/10.3390/pharmaceutics13081237); [web server](https://webs.iiitd.edu.in/raghava/b3pred/).
+1. BBPpred (2021): [publication](https://doi.org/10.1021/acs.jcim.0c01115); [web server](http://BBPpred.xialab.info).
 
 ## Cell-penetrating peptides (CPP)
 
