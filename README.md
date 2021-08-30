@@ -32,6 +32,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. CancerGram (2020): [publication](https://www.mdpi.com/1999-4923/12/11/1045); [web server](http://biongram.biotech.uni.wroc.pl/CancerGram); [repository](https://github.com/BioGenies/CancerGram-analysis).
 1. DeepACP (2020): [publication](https://doi.org/10.1016/j.omtn.2020.10.005); [repository](https://github.com/jingry/autoBioSeqpy/tree/master/examples/anticancer_peptide_prediction).
 1. DLACP (2020): [publication](http://doi.org/10.1109/BIBM49941.2020.9313572).
+1. DLFF-ACP (2021): [publication](https://doi.org/10.7717/peerj.11906); [repository](https://github.com/wame-ng/DLFF-ACP).
 1. DRACP (2020): [publication](https://doi.org/10.1186/s12859-020-03812-y); [repository](https://github.com/zty2009/ACP).
 1. Hajisharifi et al. (2013): [publication](https://doi.org/10.1016/j.jtbi.2013.08.037).
 1. iACP (2016): [publication](https://doi.org/10.18632/oncotarget.7815); [web server](http://lin-group.cn/server/iACP).
