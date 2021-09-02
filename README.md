@@ -146,6 +146,6 @@ This curated list collects machine learning models dedicated to predicting speci
 1. NeuroCS (2020): [publication](https://doi.org/10.2174/0929866526666191112150636); [web server](http://i.uestc.edu.cn/NeuroCS/dist/index.html#/).
 1. NeuroPIpred (2019): [publication](https://doi.org/10.1038/s41598-019-41538-x); [web server](http://i.uestc.edu.cn/neuropeptide/neuropp/home.html).
 1. NeuroPP (2019): [publication](https://doi.org/10.1007/s12539-018-0287-2); [web server](http://i.uestc.edu.cn/neuropeptide/neuropp/home.html).
-1. NeuroPpred-Fuse (2020): [publication](https://doi.org/10.1093/bib/bbab310);
+1. NeuroPpred-Fuse (2021): [publication](https://doi.org/10.1093/bib/bbab310); [repository](https://github.com/mingmingjiang1/NeuroPpred-Fuse).
 1. PredNeuroP (2020): [publication](https://doi.org/10.1021/acs.jproteome.0c00276); [repository](https://github.com/xialab-ahu/PredNeuroP).
 
