@@ -93,6 +93,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. Deep-AmPEP30 (2020): [publication](https://doi.org/10.1016/j.omtn.2020.05.006); [web server](https://cbbio.online/AxPEP/).
 1. Ensemble-AMPPred (2021): [publication](https://doi.org/10.3390/genes12020137); [standalone software](http://ncrna-pred.com/Hybrid_AMPPred.htm).
 1. Ferrell et al. (2021): [pre-print](https://doi.org/10.1101/2020.10.02.324087).
+1. Healy et al. (2021): [publication](https://doi.org/10.1007/978-3-030-86258-9_2); [repository](https://github.com/gmit-amp-res).
 1. iAMP-2L (2013): [publication](https://doi.org/10.1016/j.ab.2013.01.019); [web server](http://www.jci-bioinfo.cn/iAMP-2L).
 1. iAMP-CA2L (2021): [publication](https://doi.org/10.1093/bib/bbab209); [repository](https://github.com/liujin66/iAMP-CA2L); [web server](http://www.jci-bioinfo.cn/iAMP-CA2L).
 1. IAMPE (2020): [publication](https://doi.org/10.1021/acs.jcim.0c00841); [web server](http://cbb1.ut.ac.ir/).
