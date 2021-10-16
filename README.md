@@ -59,6 +59,7 @@ This curated list collects machine learning models dedicated to predicting speci
 
 1. AIEpred (2020): [publication](https://doi.org/10.1109/TCBB.2020.2968419); [repository](https://github.com/guofei-tju/Ensemble-classifier-chain-model).
 1. AntiInflam (2017): [publication](https://doi.org/10.1186/s12967-016-1103-6); [web server](http://metagenomics.iiserb.ac.in/antiinflam).
+1. AntiFlamPred (2021): [publication](https://doi.org/10.32604/cmc.2021.017297).
 1. AIPpred (2018): [publication](https://doi.org/10.3389/fphar.2018.00276); [web server](http://www.thegleelab.org/AIPpred).
 1. PreAIP (2019): [publication](https://doi.org/10.3389/fgene.2019.00129); [web server](http://kurata14.bio.kyutech.ac.jp/PreAIP).
 
@@ -124,6 +125,7 @@ This curated list collects machine learning models dedicated to predicting speci
 
 ## Anti-multiclass peptides
 
+1. AMPDiscover (2021): antimicrobial, antibacterial, antifungal, antiparasitic, and antiviral: [publication](https://doi.org/10.1021/acs.jcim.1c00251); [web server](https://biocom-ampdiscover.cicese.mx/).
 1. iAMPpred (2017): antibacterial, antiviral, antifungal: [publication](https://doi.org/10.1038/srep42362); [web server](http://cabgrid.res.in:8080/amppred).
 1. iAMP-CA2L (2021): antibacterial, antiviral peptides, antifungal, antibiofilm, antiparasital, anti-HIV, anticancer, chemotactic, anti-MRSA, antiendotoxin [publication](https://doi.org/10.1093/bib/bbab209); [repository](https://github.com/liujin66/iAMP-CA2L); [web server](http://www.jci-bioinfo.cn/).
 1. PEPred-Suite (2019): antiangiogenic, antibacterial, antiinflammatory, antiviral, antifungal, cell-penetrating, quorum sensing, surface-binding peptides: [publication](https://doi.org/10.1093/bioinformatics/btz246); [web server](http://server.malab.cn/PEPred-Suite/).
@@ -150,5 +152,6 @@ This curated list collects machine learning models dedicated to predicting speci
 1. NeuroPIpred (2019): [publication](https://doi.org/10.1038/s41598-019-41538-x); [web server](http://i.uestc.edu.cn/neuropeptide/neuropp/home.html).
 1. NeuroPP (2019): [publication](https://doi.org/10.1007/s12539-018-0287-2); [web server](http://i.uestc.edu.cn/neuropeptide/neuropp/home.html).
 1. NeuroPpred-Fuse (2021): [publication](https://doi.org/10.1093/bib/bbab310); [repository](https://github.com/mingmingjiang1/NeuroPpred-Fuse).
+1. NeuroPred-FRL (2021): [publication](https://doi.org/10.1093/bib/bbab167); [web server](http://kurata14.bio.kyutech.ac.jp/NeuroPred-FRL/prediction.php).
 1. PredNeuroP (2020): [publication](https://doi.org/10.1021/acs.jproteome.0c00276); [repository](https://github.com/xialab-ahu/PredNeuroP).
 
