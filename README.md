@@ -104,6 +104,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. Ng et al. (2015): [publication](https://doi.org/10.1155/2015/212715).
 1. PepVAE3 (2021): [pre-print](https://doi.org/10.1101/2021.04.07.438720).
 1. Wang et al. (2011): [publication](https://doi.org/10.1371/journal.pone.0018476).
+1. Wani et al. (2021): [publication](https://doi.org/10.1007/s11517-021-02443-6); [repository](https://static-content.springer.com/esm/art%3A10.1007%2Fs11517-021-02443-6/MediaObjects/11517_2021_2443_MOESM1_ESM.docx).
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
 1. Zhang et al. (2021): [publication](https://doi.org/10.1093/bib/bbab200); [repository](https://github.com/BioSequenceAnalysis/Bert-Protein).
 
