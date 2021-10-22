@@ -7,6 +7,7 @@ This curated list collects machine learning models dedicated to predicting speci
 - [Antifungal peptides (AFP)](#antifungal-peptides-afp)
 - [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-aip)
 - [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)
+- [Antiparasitic peptides (APP)](#antiparasitic-peptides-app)
 - [Antiviral peptides (AVP)](#antiviral-peptides-avp)
 - [Anti-multiclass peptides](#anti-multiclass-peptides)
 - [Blood-Brain Barrier Peptides (BBP)](#blood-brain-barrier-peptides-bbp)
@@ -110,16 +111,22 @@ This curated list collects machine learning models dedicated to predicting speci
 1. Zhang et al. (2021): [publication](https://doi.org/10.1093/bib/bbab200); [repository](https://github.com/BioSequenceAnalysis/Bert-Protein).
 
 
+## Antiparasitic peptides (APP)
+
+1. PredAPP (2021): [publication](https://doi.org/10.1007/s12539-021-00484-x); [repository](https://github.com/xialab-ahu/PredAPP); [web server](http://predapp.xialab.info/).
+
 ## Antiviral peptides (AVP)
 
 1. AntiVPP 1.0 (2019): [publication](https://doi.org/10.1016/j.compbiomed.2019.02.011); [repository](https://github.com/bio-coding/AntiVPP).
 1. AVP‐IC50Pred (2015): [publication](https://doi.org/10.1002/bip.22703); [web server](http://crdd.osdd.net/servers/ic50avp).
 1. AVPIden (2021): [publication](https://doi.org/10.1093/bib/bbab263) ;[web server](https://awi.cuhk.edu.cn/AVPIden/).
 1. AVPpred (2012): [publication](https://doi.org/10.1093/nar/gks450); [web server](http://crdd.osdd.net/servers/avppred).
+1. Bakare et al. (2021): [publication](https://doi.org/10.1038/s41598-021-00223-8).
 1. DeepAVP (2020): [publication](https://doi.org/10.1109/JBHI.2020.2977091); [web server](http://www.lbci.cn/deepavp/index.html).
 1. ENNAVIA (2021): [pre-print](https://doi.org/10.1101/2021.03.25.436982); [web server](https://research.timmons.eu/ennavia).
 1. FIRM-AVP (2020): [publication](https://doi.org/10.1038/s41598-020-76161-8); [web server](https://msc-viz.emsl.pnnl.gov/AVPR/); [repository](https://github.com/pmartR/FIRM-AVP).
 1. Meta-iAVP (2019): [publication](https://doi.org/10.3390/ijms20225743); [web server](http://codes.bio/meta-iavp).
+1. Nath (2021): [publication](https://doi.org/10.1016/j.compbiolchem.2021.107588).
 1. PandoraGAN (2021): [publication](https://doi.org/10.1101/2021.02.15.431193); [repository](https://gitlab.com/shraddha.surana/antiviral-peptide-predictions-using-gan); [web server](https://pandora-gan.herokuapp.com/).
 
 
