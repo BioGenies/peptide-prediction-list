@@ -52,6 +52,7 @@ This curated list collects machine learning models dedicated to predicting speci
 ## Antifungal peptides (AFP)
 
 1. Antifp (2018): [publication](https://doi.org/10.3389/fmicb.2018.00323); [web server](https://webs.iiitd.edu.in/raghava/antifp).
+1. Deep-AFPpred (2021): [publication](https://doi.org/10.1093/bib/bbab422); [web server](https://afppred.anvil.app/).
 1. Deep-AntiFP (2021): [publication](https://doi.org/10.1016/j.chemolab.2020.104214); [repository](https://github.com/shahidawkum/Deep-AntiFP).
 1. Mousavizadegan & Mohabatkar (2018): [publication](http://doi.org/10.1142/S0219720018500166).
 
