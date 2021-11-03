@@ -92,7 +92,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. CS-AMPPred (2012): [publication](https://doi.org/10.1371/journal.pone.0051444); [standalone software](https://sourceforge.net/projects/csamppred/).
 1. DBAASP (2014): [publication](https://doi.org/10.1111/1574-6968.12489); [web server](https://dbaasp.org/prediction/general).
 1. dbAMP (2019): [publication](10.1093/nar/gky1030); [web server](http://csb.cse.yzu.edu.tw/dbAMP/).
-1. Deep-AmPEP30 (2020): [publication](https://doi.org/10.1016/j.omtn.2020.05.006); [web server](https://cbbio.online/AxPEP/).
+1. Deep-AmPEP30 (2020): [publication](https://doi.org/10.1016/j.omtn.2020.05.006); [repository](https://sourceforge.net/projects/axpep/); [web server](https://cbbio.online/AxPEP/).
 1. Ensemble-AMPPred (2021): [publication](https://doi.org/10.3390/genes12020137); [standalone software](http://ncrna-pred.com/Hybrid_AMPPred.htm).
 1. Ferrell et al. (2021): [pre-print](https://doi.org/10.1101/2020.10.02.324087).
 1. Healy et al. (2021): [publication](https://doi.org/10.1007/978-3-030-86258-9_2); [repository](https://github.com/gmit-amp-res).
