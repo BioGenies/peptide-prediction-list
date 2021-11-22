@@ -17,6 +17,7 @@ This curated list collects machine learning models dedicated to predicting speci
 ## Antibacterial peptides (ABP)
 
 1. Deep-ABPpred (2021): [publication](https://doi.org/10.1093/bib/bbab065); [web server](https://abppred.anvil.app/).
+1. StaBle-ABPpred (2021): [publication](https://doi.org/10.1093/bib/bbab439); [web server](https://stable-abppred.anvil.app).
 
 ## Anticancer peptides (ACP)
 
