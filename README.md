@@ -71,6 +71,7 @@ This curated list collects machine learning models dedicated to predicting speci
 
 1. ACEP (2020): [publication](https://doi.org/10.1186/s12864-020-06978-0); [repository](https://github.com/Fuhaoyi/ACEP).
 1. ADAM (2015): [publication](https://doi.org/10.1155/2015/475062); [web server](http://bioinformatics.cs.ntou.edu.tw/adam/tool.html).
+1. AI4AMP (2021): [publication](https://doi.org/10.1128/mSystems.00299-21); [repository](https://github.com/LinTzuTang/AI4AMP_predictor), [web server](http://symbiosis.iis.sinica.edu.tw/PC_6/).
 1. AMAP (2019): [publication](https://doi.org/10.1016/j.compbiomed.2019.02.018); [web server](http://amap.pythonanywhere.com/).
 1. AMP0 (2020): [publication](https://doi.org/10.1109/TCBB.2020.2999399); [web server](http://ampzero.pythonanywhere.com).
 1. AMPA (2012): [publication](https://doi.org/10.1093/bioinformatics/btr604); [web server](http://tcoffee.crg.cat/apps/ampa/do).
