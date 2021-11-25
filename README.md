@@ -21,6 +21,7 @@ This curated list collects machine learning models dedicated to predicting speci
 
 ## Anticancer peptides (ACP)
 
+1. ACP-DA (2021): [publication](https://doi.org/10.3389/fgene.2021.698477); [repository](https://github.com/chenxgscuec/ACPDA).
 1. ACP-DL (2019): [publication](https://doi.org/10.1016/j.omtn.2019.04.025); [repository](https://github.com/haichengyi/ACP-DL).
 1. ACP-MHCNN (2020): [pre-print](https://doi.org/10.1101/2020.09.25.313668); [repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN).
 1. ACPP (2015): [publication](https://doi.org/10.1007/s10989-014-9435-7); [web server](http://acpp.bicpu.edu.in/predict.php).
@@ -45,6 +46,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. Li & Wang (2016): [publication](https://doi.org/10.1038/srep33910).
 1. Li et al. (2020): [publication](https://doi.org/10.3389/fbioe.2020.00892).
 1. mACPpred (2019): [publication](https://www.mdpi.com/1422-0067/20/8/1964); [web server](http://www.thegleelab.org/mACPpred).
+1. ME-ACP (2021): [pre-print](https://doi.org/10.1101/2021.11.22.469543).
 1. MLACP (2017): [publication](https://doi.org/10.18632/oncotarget.20365); [web server](http://www.thegleelab.org/MLACP/MLACP.html).
 1. SAP (2018): [publication](https://doi.org/10.3390/genes9030158).
 1. TargetACP (2018): [publication](https://doi.org/10.1016/j.chemolab.2018.09.007)
@@ -135,6 +137,7 @@ This curated list collects machine learning models dedicated to predicting speci
 
 ## Anti-multiclass peptides
 
+1. ACHP (2021): anticancer and antihypertensive peptides: [publication](https://doi.org/10.1007/s10989-021-10222-y); [web server](http://118.178.58.31:9801/).
 1. AMPDiscover (2021): antimicrobial, antibacterial, antifungal, antiparasitic, and antiviral: [publication](https://doi.org/10.1021/acs.jcim.1c00251); [web server](https://biocom-ampdiscover.cicese.mx/).
 1. iAMPpred (2017): antibacterial, antiviral, antifungal: [publication](https://doi.org/10.1038/srep42362); [web server](http://cabgrid.res.in:8080/amppred).
 1. iAMP-CA2L (2021): antibacterial, antiviral peptides, antifungal, antibiofilm, antiparasital, anti-HIV, anticancer, chemotactic, anti-MRSA, antiendotoxin [publication](https://doi.org/10.1093/bib/bbab209); [repository](https://github.com/liujin66/iAMP-CA2L); [web server](http://www.jci-bioinfo.cn/).
