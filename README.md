@@ -50,6 +50,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. ME-ACP (2021): [pre-print](https://doi.org/10.1101/2021.11.22.469543).
 1. MLACP (2017): [publication](https://doi.org/10.18632/oncotarget.20365); [web server](http://www.thegleelab.org/MLACP/MLACP.html).
 1. SAP (2018): [publication](https://doi.org/10.3390/genes9030158).
+1. StackACPred (2022): [publication](https://doi.org/10.1016/j.chemolab.2021.104458); [repository](https://github.com/Muhammad-Arif-NUST/StackACPred-).
 1. TargetACP (2018): [publication](https://doi.org/10.1016/j.chemolab.2018.09.007)
 
 
@@ -171,4 +172,5 @@ This curated list collects machine learning models dedicated to predicting speci
 
 ## Toxic peptides (TP)
 
+1. ToxIBTL (2022): [publication](https://doi.org/10.1093/bioinformatics/btac006); [web server](http://server.wei-group.net/ToxIBTL); [repository](https://github.com/WLYLab/ToxIBTL).
 1. ToxinPred (2015): [publication](https://doi.org/10.1007/978-1-4939-2285-7_7); [web server](https://webs.iiitd.edu.in/raghava/toxinpred/algo.php).
