@@ -59,6 +59,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. Antifp (2018): [publication](https://doi.org/10.3389/fmicb.2018.00323); [web server](https://webs.iiitd.edu.in/raghava/antifp).
 1. Deep-AFPpred (2021): [publication](https://doi.org/10.1093/bib/bbab422); [web server](https://afppred.anvil.app/).
 1. Deep-AntiFP (2021): [publication](https://doi.org/10.1016/j.chemolab.2020.104214); [repository](https://github.com/shahidawkum/Deep-AntiFP).
+1. iAFPs-EnC-GA (2022): [publication](https://doi.org/10.1016/j.chemolab.2022.104516); [repository](https://github.com/farmanit335/iAFPs-EnC-GA).
 1. Mousavizadegan & Mohabatkar (2018): [publication](http://doi.org/10.1142/S0219720018500166).
 
 
@@ -87,6 +88,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. AmpGram (2020): [publication](https://doi.org/10.3390/ijms21124310); [repository: training of the model](https://github.com/michbur/AmpGram-analysis); [repository: R package](https://github.com/michbur/AmpGram); [web server](http://biongram.biotech.uni.wroc.pl/AmpGram/).
 1. Ampir (2020): [publication](https://doi.org/10.1093/bioinformatics/btaa653); [repository: training of the models](https://github.com/Legana/AMP_pub); [repository: R package](https://github.com/Legana/ampir); [web server](https://ampir.marine-omics.net/).
 1. AMPlify (2020): [publication](https://doi.org/10.1101/2020.06.16.155705); [repository](https://github.com/bcgsc/AMPlify).
+1. AMPpred-EL (2022): [publication](https://doi.org/10.1016/j.compbiomed.2022.105577).
 1. AMPScanner V2 (2018): [publication](https://doi.org/10.1093/bioinformatics/bty179).
 1. ANFIS (2012): [publication](https://doi.org/10.1002/bip.22066).
 1. AniAMPpred (2021): [publication](https://doi.org/10.1093/bib/bbab242); [web server](https://aniamppred.anvil.app/).
@@ -112,6 +114,7 @@ This curated list collects machine learning models dedicated to predicting speci
 1. MLAMP (2016): [publication](https://doi.org/10.1093/bioinformatics/btw560); [web server](http://www.jci-bioinfo.cn/MLAMP).
 1. Ng et al. (2015): [publication](https://doi.org/10.1155/2015/212715).
 1. PepVAE3 (2021): [pre-print](https://doi.org/10.1101/2021.04.07.438720).
+1. sAMP-PFPDeep (2022): [publication](https://doi.org/10.1093/bib/bbab487); [repository](https://github.com/WaqarHusain/sAMP-PFPDeep).
 1. Wang et al. (2011): [publication](https://doi.org/10.1371/journal.pone.0018476).
 1. Wani et al. (2021): [publication](https://doi.org/10.1007/s11517-021-02443-6); [repository](https://static-content.springer.com/esm/art%3A10.1007%2Fs11517-021-02443-6/MediaObjects/11517_2021_2443_MOESM1_ESM.docx).
 1. Witten & Witten (2019): [publication](https://doi.org/10.1101/692681); [repository](https://github.com/zswitten/Antimicrobial-Peptides).
@@ -120,6 +123,7 @@ This curated list collects machine learning models dedicated to predicting speci
 
 ## Antiparasitic peptides (APP)
 
+1. i2APP (2022): [publication](https://doi.org/10.3389/fgene.2022.884589); [repository](https://github.com/greyspring/i2APP).
 1. PredAPP (2021): [publication](https://doi.org/10.1007/s12539-021-00484-x); [repository](https://github.com/xialab-ahu/PredAPP); [web server](http://predapp.xialab.info/).
 
 ## Antiviral peptides (AVP)
@@ -143,20 +147,25 @@ This curated list collects machine learning models dedicated to predicting speci
 1. AMPDiscover (2021): antimicrobial, antibacterial, antifungal, antiparasitic, and antiviral: [publication](https://doi.org/10.1021/acs.jcim.1c00251); [web server](https://biocom-ampdiscover.cicese.mx/).
 1. iAMPpred (2017): antibacterial, antiviral, antifungal: [publication](https://doi.org/10.1038/srep42362); [web server](http://cabgrid.res.in:8080/amppred).
 1. iAMP-CA2L (2021): antibacterial, antiviral peptides, antifungal, antibiofilm, antiparasital, anti-HIV, anticancer, chemotactic, anti-MRSA, antiendotoxin [publication](https://doi.org/10.1093/bib/bbab209); [repository](https://github.com/liujin66/iAMP-CA2L); [web server](http://www.jci-bioinfo.cn/).
+1. MLBP (2022): anticancer, antidiabetic, antihypertensive, antiinflammatory and antimicrobial: [publication](https://doi.org/10.1093/bib/bbab414); [web server](http://bioinfo.ahu.edu.cn/MLBP/); [repository](https://github.com/xialab-ahu/MLBP).
+1. Pep-CNN (2022): anti-angiogenic, antibacterial, anticancer, antiinflammatory, antiviral, cell-penetrating, quorum sensing, and surface-binding peptides: [publication](https://doi.org/10.1016/j.chemolab.2022.104490); [repository](https://github.com/alivelxj/Pep-CNN).
 1. PEPred-Suite (2019): antiangiogenic, antibacterial, antiinflammatory, antiviral, antifungal, cell-penetrating, quorum sensing, surface-binding peptides: [publication](https://doi.org/10.1093/bioinformatics/btz246); [web server](http://server.malab.cn/PEPred-Suite/).
 
 ## Blood-Brain Barrier Peptides (BBP)
 
 1. B3Pred (2021): [publication](https://doi.org/10.3390/pharmaceutics13081237); [web server](https://webs.iiitd.edu.in/raghava/b3pred/).
 1. BBPpred (2021): [publication](https://doi.org/10.1021/acs.jcim.0c01115); [web server](http://BBPpred.xialab.info).
+1. Zou (2021): [publication](https://doi.org/10.1002/pep2.24247); [code](https://figshare.com/articles/online_resource/iBBPs_zip/14723766).
 
 ## Cell-penetrating peptides (CPP)
 
 1. BChemRF-CPPred (2021): [publication](https://doi.org/10.1038/s41598-021-87134-w), [web server](http://comptools.linc.ufpa.br/BChemRF-CPPred).
 1. CellPPDMod (2018): [publication](https://doi.org/10.3389/fmicb.2018.00725), [web server](http://webs.iiitd.edu.in/raghava/cellppdmod/). 
+1. CPPFormer (2022): [publication](https://doi.org/10.2174/0929867328666210920103140); []
 1. CPPred-RF (2017): [publication](https://doi.org/10.1021/acs.jproteome.7b00019); [web server](http://server.malab.cn/CPPred-RF/).
 1. KELM-CPPpred (2018): [publication](https://doi.org/10.1021/acs.jproteome.8b00322); [web server](http://sairam.people.iitgn.ac.in/KELM-CPPpred.html).
 1. MLCPP (2017): [publication](https://doi.org/10.1021/acs.jproteome.8b00148); [web server](www.thegleelab.org/MLCPP).
+1. MLCPP 2.0 (2022): [publication](https://doi.org/10.1016/j.jmb.2022.167604); [web server](https://balalab-skku.org/mlcpp2).
 1. SkipCPP-Pred (2017): [publication](https://doi.org/10.1186/s12864-017-4128-1); [web server](http://server.malab.cn/SkipCPP-Pred/Index.html).
 1. TargetCPP (2020): [publication](https://doi.org/10.1007/s10822-020-00307-z); [code](https://static-content.springer.com/esm/art%3A10.1007%2Fs10822-020-00307-z/MediaObjects/10822_2020_307_MOESM2_ESM.zip).
 1. Yadahalli et al. (2021): [pre-print](https://doi.org/10.1101/2020.10.15.341149). 
