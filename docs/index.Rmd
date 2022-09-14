@@ -2,14 +2,14 @@
 title: The dynamic landscape of peptide function prediction
 output:                                                                                                         
   html_document:
-    theme: paper                                                                               
+    theme: paper                                                                 
 ---      
 
 <style type="text/css">
 .main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
+max-width: 1800px;
+margin-left: auto;
+margin-right: auto;
 }
 </style>
 
@@ -24,10 +24,13 @@ dat <- readRDS("../data/curated_dat.RDS") %>%
   filter(isPEP == TRUE & isML == TRUE) %>% 
   mutate(DOI = case_when(!is.na(publication) ~ publication,
                          !is.na(preprint) ~ preprint,
-                         !is.na(thesis) ~ thesis),
+                         !is.na(thesis) ~ paste0("<a href='", thesis,"' >Thesis</a>")),
          Type = case_when(!is.na(publication) ~ "Publication",
-                         !is.na(preprint) ~ "Pre-print",
-                         !is.na(thesis) ~ "Thesis")) %>% 
+                          !is.na(preprint) ~ "Pre-print",
+                          !is.na(thesis) ~ "Thesis"),
+         webserver = sapply(unlist(.[["webserver"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Web server</a>"), paste0("false"))),
+         modelrepository = sapply(unlist(.[["modelrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))),
+         trainingrepository = sapply(unlist(.[["trainingrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))))   %>% 
   select(c("name", "DOI", "Type", "reproducibility", "webserver", "webserveractive", "webserverfunctional", "modelrepository", "trainingrepository",
            "antiangiogenic", "antibacterial", "antibiofilm", "anticancer", "antifungal", "antihypertensive", "antiinflammatory",
            "antimicrobial", "antiparasitic", "antiviral", "blood-brain barrier", "cell-penetrating", "chemotactic", "neuropeptides",
@@ -47,9 +50,21 @@ dat <- readRDS("../data/curated_dat.RDS") %>%
 datatable(dat, extensions = c('Buttons', 'FixedColumns'), 
           filter = "top", style = "bootstrap",
           rownames = FALSE, escape = FALSE,
-          options = list(dom = "Brtip", pageLength = 25,
+          options = list(dom = "Brtilp", pageLength = 25,
                          buttons = c("copy", "csv", "excel", "print"),
-                         fixedColumns = list(leftColumns = 1)))
+                         autoWidth = TRUE,
+                         # scrollX=TRUE,
+                         # columnDefs = list(list(width = '200px', targets = c(0))),
+                         fixedColumns = list(leftColumns = 1),
+                         filter = list(clear = FALSE, plain = TRUE),
+                         lengthMenu = list(25, 50, 75, 100, 125, 150))) %>%  
+  formatStyle(c("Web server activity", "Web server functionality", "Antiangiogenic", "Antibacterial", "Antibiofilm", "Anticancer",
+                "Antifungal", "Antihypertensive", "Antiinflammatory", "Antimicrobial", "Antiparasitic",
+                "Antiviral", "Blood-brain barrier", "Cell-penetrating", "Chemotactic",
+                "Neuropeptides", "Quorum sensing", "Surface-binding", "Toxic"),
+              backgroundColor = styleEqual(c(FALSE, TRUE), c('#ededed', '#d6edff')))  %>%
+  formatStyle(c("Web server", "Model repository", "Training repository"),
+              backgroundColor = styleEqual("false", '#ededed')) 
 ```
 
 ### Data collection & curation
