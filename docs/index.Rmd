@@ -40,6 +40,46 @@ dat <- readRDS("../data/curated_dat.RDS") %>%
              "Antiinflammatory", "Antimicrobial", "Antiparasitic", "Antiviral", "Blood-brain barrier", "Cell-penetrating", "Chemotactic", 
              "Neuropeptides", "Quorum sensing", "Surface-binding", "Toxic")) 
 
+hover_text <- c("Name of a software or author if software do not have name",
+                "DOI for publications and pre-prints or link for thesis",
+                "Type of the article describing given software (Publication, Pre-print or Thesis)",
+                "Reproducibility standard according to Heil et al. 2021. We are additionally using the category below bronze, when a model does not fulfill criteria even for the bronze category.",
+                "Link to the web server",
+                "Indication if a web server is active, i.e. link provided in the publication is working",
+                "Indication if a web server is functional, i.e. provides understandable output after running prediction",
+                "Link to the model, i.e. a repository with a trained model which can be used for prediction or an address of the model implemented as standalone software",
+                "Link to the repository with all the code and data necessary to train/retrain the model",
+                "Indication if the model predicts antiangiogenic activity of peptides",
+                "Indication if the model predicts antibacterial activity of peptides",
+                "Indication if the model predicts antibiofilm activity of peptides",
+                "Indication if the model predicts anticancer activity of peptides",
+                "Indication if the model predicts antifungal activity of peptides",
+                "Indication if the model predicts antihypertensive activity of peptides",
+                "Indication if the model predicts antiinflammatory activity of peptides",
+                "Indication if the model predicts antimicrobial activity of peptides",
+                "Indication if the model predicts antiparasitic activity of peptides",
+                "Indication if the model predicts antiviral activity of peptides",
+                "Indication if the model predicts peptides crossing blood-brain barrier",
+                "Indication if the model predicts cell-penetrating activity of peptides",
+                "Indication if the model predicts chemotactic activity of peptides",
+                "Indication if the model predicts neuropeptides",
+                "Indication if the model predicts quorum sensing activity of peptides",
+                "Indication if the model predicts surface-binding activity of peptides",
+                "Indication if the model predicts toxic activity of peptides")
+
+headerCallback <- c(
+  "function(thead, data, start, end, display){",
+  "  var ncols = data[0].length;",
+  sprintf("  var shortnames = [%s]", 
+          paste0(paste0("'",colnames(dat),"'"), collapse = ",")),
+  sprintf("  var tooltips = [%s];", 
+          paste0(paste0("'", hover_text,"'"), collapse = ",")),
+  "  for(var i=0; i<ncols; i++){",
+  "    $('th:eq('+i+')',thead).attr('title', tooltips[i]).text(shortnames[i]);",
+  "  }",
+  "}"
+)
+
 ```
 
 ## {.tabset}
@@ -57,14 +97,15 @@ datatable(dat, extensions = c('Buttons', 'FixedColumns'),
                          # columnDefs = list(list(width = '200px', targets = c(0))),
                          fixedColumns = list(leftColumns = 1),
                          filter = list(clear = FALSE, plain = TRUE),
-                         lengthMenu = list(25, 50, 75, 100, 125, 150))) %>%  
+                         lengthMenu = list(25, 50, 75, 100, 125, 150),
+                         headerCallback = JS(headerCallback))) %>%  
   formatStyle(c("Web server activity", "Web server functionality", "Antiangiogenic", "Antibacterial", "Antibiofilm", "Anticancer",
                 "Antifungal", "Antihypertensive", "Antiinflammatory", "Antimicrobial", "Antiparasitic",
                 "Antiviral", "Blood-brain barrier", "Cell-penetrating", "Chemotactic",
                 "Neuropeptides", "Quorum sensing", "Surface-binding", "Toxic"),
               backgroundColor = styleEqual(c(FALSE, TRUE), c('#ededed', '#d6edff')))  %>%
   formatStyle(c("Web server", "Model repository", "Training repository"),
-              backgroundColor = styleEqual("false", '#ededed')) 
+              backgroundColor = styleEqual("false", '#ededed', default = '#d6edff')) 
 ```
 
 ### Data collection & curation
