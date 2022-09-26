@@ -21,28 +21,22 @@ library(DT)
 library(dplyr)
 
 dat <- readRDS("../data/curated_dat.RDS") %>% 
-  filter(isPEP == TRUE & isML == TRUE) %>% 
-  mutate(DOI = case_when(!is.na(publication) ~ publication,
-                         !is.na(preprint) ~ preprint,
-                         !is.na(thesis) ~ paste0("<a href='", thesis,"' >Thesis</a>")),
-         Type = case_when(!is.na(publication) ~ "Publication",
-                          !is.na(preprint) ~ "Pre-print",
-                          !is.na(thesis) ~ "Thesis"),
+  filter(isPEP == TRUE & isML == TRUE & !is.na(publication)) %>% 
+  mutate(DOI = publication,
          webserver = sapply(unlist(.[["webserver"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Web server</a>"), paste0("false"))),
          modelrepository = sapply(unlist(.[["modelrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))),
          trainingrepository = sapply(unlist(.[["trainingrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))))   %>% 
-  select(c("name", "DOI", "Type", "reproducibility", "webserver", "webserveractive", "webserverfunctional", "modelrepository", "trainingrepository",
+  select(c("name", "DOI", "reproducibility", "webserver", "webserveractive", "webserverfunctional", "modelrepository", "trainingrepository",
            "antiangiogenic", "antibacterial", "antibiofilm", "anticancer", "antifungal", "antihypertensive", "antiinflammatory",
            "antimicrobial", "antiparasitic", "antiviral", "blood-brain barrier", "cell-penetrating", "chemotactic", "neuropeptides",
            "quorum sensing", "surface-binding", "toxic")) %>% 
-  setNames(c("Name", "DOI", "Type", "Reproducibility standard", "Web server", "Web server activity", "Web server functionality", "Model repository", 
+  setNames(c("Name", "DOI", "Reproducibility standard", "Web server", "Web server activity", "Web server functionality", "Model repository", 
              "Training repository", "Antiangiogenic", "Antibacterial", "Antibiofilm", "Anticancer", "Antifungal", "Antihypertensive", 
              "Antiinflammatory", "Antimicrobial", "Antiparasitic", "Antiviral", "Blood-brain barrier", "Cell-penetrating", "Chemotactic", 
              "Neuropeptides", "Quorum sensing", "Surface-binding", "Toxic")) 
 
 hover_text <- c("Name of a software or author if software do not have name",
-                "DOI for publications and pre-prints or link for thesis",
-                "Type of the article describing given software (Publication, Pre-print or Thesis)",
+                "DOI for publications",
                 "Reproducibility standard according to Heil et al. 2021. We are additionally using the category below bronze, when a model does not fulfill criteria even for the bronze category.",
                 "Link to the web server",
                 "Indication if a web server is active, i.e. link provided in the publication is working",
@@ -110,7 +104,7 @@ datatable(dat, extensions = c('Buttons', 'FixedColumns'),
 
 ### Data collection & curation
 
-To collect software for the prediction of peptide activities, we searched PubMed, Google Scholar and BioRxiv databases using queries such as "antimicrobial peptide prediction", "anticancer peptide prediction", etc. We focused on the search results that described software or reviewed/compared available tools for the prediction of a given activity. We included articles published until 1st July 2022. 
+To collect software for the prediction of peptide activities, we searched PubMed and Google Scholar databases using queries such as "antimicrobial peptide prediction", "anticancer peptide prediction", etc. We focused on the search results that described software or reviewed/compared available tools for the prediction of a given activity. We included articles published until 1st July 2022. 
 
 We manually curated all information for software featured in a 'Software information' tab. To do that we carefully analysed publications/pre-prints describing given software looking for the following information: 
 
