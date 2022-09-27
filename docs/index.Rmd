@@ -109,8 +109,8 @@ To collect software for the prediction of peptide activities, we searched PubMed
 Eligibility criteria:
 
  - the tool needs to be publishen in a peer-review journal until 1st July 2022.
- - we do not include models that are superceded by their next version. For example, we include AmpScanner 2.0, but not AmpScanner.
-
+ - we include models that are superceded by their next version. 
+ 
 We manually curated all information for software featured in a 'Software information' tab. To do that we carefully analysed publications/pre-prints describing given software looking for the following information: 
 
 - peptide activities predicted by a model, 
