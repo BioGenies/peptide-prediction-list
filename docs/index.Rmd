@@ -24,6 +24,7 @@ dat <- readRDS("../data/curated_dat.RDS") %>%
   filter(isPEP == TRUE & isML == TRUE & !is.na(publication)) %>% 
   filter(name != "CPPFormer") %>% 
   mutate(DOI = publication,
+         reproducibility = factor(reproducibility, levels = c("unavailable", "below bronze", "bronze", "silver", "gold")),
          webserver = sapply(unlist(.[["webserver"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Web server</a>"), paste0("false"))),
          modelrepository = sapply(unlist(.[["modelrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))),
          trainingrepository = sapply(unlist(.[["trainingrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))))   %>% 
