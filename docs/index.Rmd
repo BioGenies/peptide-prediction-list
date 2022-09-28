@@ -136,7 +136,7 @@ This website accompanies article: *The dynamic landscape of peptide function pre
 
 #### Michał Burdukiewicz
 
-Michał Burdukiewicz received Ph.D. in biochemistry from the University of Wrocław in 2019. He is currently working as a post-doc at the Institute of Biotechnology and Biomedicine at the Autonomous University of Barcelona and a research assistant in the Centre for Clinical Research at the Medical University of Białystok. His research interests cover machine learning applications in the functional analysis of peptides and proteins, focusing on amyloids. Moreover, he is co-developing tools for proteomics, mainly hydrogen-deuterium exchange monitored by mass spectrometry.
+Michał Burdukiewicz is currently working as a post-doc at the Institute of Biotechnology and Biomedicine at the Autonomous University of Barcelona and a research assistant in the Centre for Clinical Research at the Medical University of Białystok. His research interests cover machine learning applications in the functional analysis of peptides and proteins, focusing on amyloids. Moreover, he is co-developing tools for proteomics, mainly hydrogen-deuterium exchange monitored by mass spectrometry.
 
 Contact: michalburdukiewicz[at]gmail.com
 
@@ -146,8 +146,31 @@ Website: https://github.com/michbur
 
 #### Carlos Pintado-Grima
 
+```{r, echo=FALSE}
+knitr::include_graphics("../photos/photos-small/Captura.PNG")
+```
+
+Twitter: https://twitter.com/cpintadogrima
+
+
 #### Katarzyna Sidorczuk
+
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("../photos/photos-small/Kasia.jpg")
+```
 
 Katarzyna Sidorczuk received the M.Sc. degree in biotechnology from the University of Wrocław, Poland, in 2019. She is currently pursuing the Ph.D. degree in biological sciences at the University of Wrocław. Her research focuses on bioinformatics and machine learning approaches for the analysis and prediction of peptide functions, protein targeting sequences and bacterial adhesins.
 
 #### Salvador Ventura
+
+```{r, echo=FALSE}
+knitr::include_graphics("../photos/photos-small/Salva.jpg")
+```
+
+Salvador Ventura is a PhD in Biology and professor of Biochemistry and Molecular Biology at the Autonomous University of Barcelona (UAB). He is an ICREA researcher at the Institute of Biotechnology and Biomedicine (IBB) of the UAB, where he was also director, and leads a research group that investigates the link between protein structure and degenerative diseases to create new molecules to treat them.  
+
+Twitter: https://twitter.com/PPMC_UAB
+
+Website: https://ibb.uab.cat/wp-content/themes/viral/modules/ibb_membres/view_grup.php?CodiGrup=36
