@@ -165,7 +165,9 @@ Twitter: https://twitter.com/cpintadogrima
 knitr::include_graphics("../photos/photos-small/Kasia.jpg")
 ```
 
-Katarzyna Sidorczuk received the M.Sc. degree in biotechnology from the University of Wrocław, Poland, in 2019. She is currently pursuing the Ph.D. degree in biological sciences at the University of Wrocław. Her research focuses on bioinformatics and machine learning approaches for the analysis and prediction of peptide functions, protein targeting sequences and bacterial adhesins.
+Katarzyna Sidorczuk received the M.Sc. degree in biotechnology from the University of Wrocław, Poland, in 2019. She is currently pursuing the Ph.D. degree in biological sciences at the University of Wrocław. Her research focuses on bioinformatics and machine learning approaches for the analysis and prediction of peptide functions, protein targeting sequences and bacterial adhesins. 
+
+Twitter: https://twitter.com/k_sidorczuk
 
 #### Salvador Ventura <a href="https://orcid.org/0000-0002-9652-6351"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
