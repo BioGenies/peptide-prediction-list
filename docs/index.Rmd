@@ -134,6 +134,10 @@ This website accompanies article: *The dynamic landscape of peptide function pre
 
 #### Oriol Bárcenas <a href="https://orcid.org/0000-0002-8439-4005"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
+```{r, echo=FALSE}
+knitr::include_graphics("../photos/photos-small/oriol.png")
+```
+
 Oriol Bárcenas is an undergraduate bioinformatics researcher at the Institute of Biotechnology and Biomedicine at the Autonomous University of Barcelona (UAB). He is a Biotechnology B.Sc. graduate from UAB (2022) and has joined a Mathematical Modelling and Data Science M.Sc. He will follow his career by enrolling in the joint Bioinformatics Ph.D. program at UAB. His research will focus on the analysis of protein folding and aggregation data, as well as in silico protein design.
 
 Twitter: https://twitter.com/oriolbarcenas
