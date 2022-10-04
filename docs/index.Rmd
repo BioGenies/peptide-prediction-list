@@ -23,7 +23,7 @@ library(dplyr)
 dat <- readRDS("../data/curated_dat.RDS") %>% 
   filter(isPEP == TRUE & isML == TRUE & !is.na(publication)) %>% 
   filter(name != "CPPFormer") %>% 
-  mutate(DOI = publication,
+  mutate(DOI = sapply(unlist(.[["publication"]]), function(i) ifelse(i != FALSE, paste0("<a href='", paste0("https://doi.org/", i),"' >", i,"</a>"), paste0("false"))),
          reproducibility = factor(reproducibility, levels = c("unavailable", "below bronze", "bronze", "silver", "gold")),
          webserver = sapply(unlist(.[["webserver"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Web server</a>"), paste0("false"))),
          modelrepository = sapply(unlist(.[["modelrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))),
@@ -89,7 +89,7 @@ datatable(dat, extensions = c('Buttons', 'FixedColumns'),
           options = list(dom = "Brtilp", pageLength = 25,
                          buttons = c("copy", "csv", "excel", "print"),
                          autoWidth = TRUE,
-                         # scrollX=TRUE,
+                         scrollY="800px",
                          # columnDefs = list(list(width = '200px', targets = c(0))),
                          fixedColumns = list(leftColumns = 1),
                          filter = list(clear = FALSE, plain = TRUE),
