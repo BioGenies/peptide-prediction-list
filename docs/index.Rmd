@@ -89,7 +89,8 @@ datatable(dat, extensions = c('Buttons', 'FixedColumns'),
           options = list(dom = "Brt", pageLength = nrow(dat), info = FALSE,
                          buttons = c("copy", "csv", "excel", "print"),
                          autoWidth = TRUE,
-                         scrollY="800px",
+                         scrollY="720px",
+                         scrollX = TRUE,
                          # columnDefs = list(list(width = '200px', targets = c(0))),
                          fixedColumns = list(leftColumns = 1),
                          filter = list(clear = FALSE, plain = TRUE),
@@ -134,7 +135,7 @@ This website accompanies article: *The dynamic landscape of peptide function pre
 
 #### Oriol Bárcenas <a href="https://orcid.org/0000-0002-8439-4005"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, out.width = "200px"}
 knitr::include_graphics("../photos/photos-small/oriol.png")
 ```
 
@@ -144,7 +145,7 @@ Twitter: https://twitter.com/oriolbarcenas
 
 #### Michał Burdukiewicz <a href="https://orcid.org/0000-0001-8926-582X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, out.width = "200px"}
 knitr::include_graphics("../photos/photos-small/michal.jpg")
 ```
 
@@ -158,7 +159,7 @@ Website: https://github.com/michbur
 
 #### Carlos Pintado-Grima <a href="https://orcid.org/0000-0002-8544-959X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, out.width = "200px"}
 knitr::include_graphics("../photos/photos-small/Captura.PNG")
 ```
 
@@ -169,7 +170,7 @@ Twitter: https://twitter.com/cpintadogrima
 
 #### Katarzyna Sidorczuk <a href="https://orcid.org/0000-0001-6576-9054"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, out.width = "200px"}
 knitr::include_graphics("../photos/photos-small/Kasia.jpg")
 ```
 
@@ -179,7 +180,7 @@ Twitter: https://twitter.com/k_sidorczuk
 
 #### Salvador Ventura <a href="https://orcid.org/0000-0002-9652-6351"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, out.width = "200px"}
 knitr::include_graphics("../photos/photos-small/Salva.jpg")
 ```
 
