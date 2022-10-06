@@ -1,6 +1,6 @@
 ---
 title: The dynamic landscape of peptide function prediction
-output:                                                                                                         
+output:                                                                                                    
   html_document:
     theme: paper                                                                 
 ---      
@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 library(DT)
 library(dplyr)
 
-dat <- readRDS("../data/curated_dat.RDS") %>% 
+dat <- readRDS("../data/full_dat.RDS") %>% 
   filter(isPEP == TRUE & isML == TRUE & !is.na(publication)) %>% 
   filter(name != "CPPFormer") %>% 
   mutate(DOI = sapply(unlist(.[["publication"]]), function(i) ifelse(i != FALSE, paste0("<a href='", paste0("https://doi.org/", i),"' >", i,"</a>"), paste0("false"))),
@@ -88,7 +88,7 @@ datatable(dat, extensions = c('Buttons', 'FixedColumns'),
           filter = "top", style = "bootstrap",
           class = "display",
           rownames = FALSE, escape = FALSE,
-          options = list(dom = "Brt", pageLength = nrow(dat), info = FALSE,
+          options = list(dom = "Birt", pageLength = nrow(dat), info = FALSE,
                          buttons = c("copy", "csv", "excel", "print"),
                          autoWidth = TRUE,
                          scrollY = FALSE,
