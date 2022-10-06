@@ -160,6 +160,18 @@ Twitter: https://twitter.com/burdukiewicz
 
 Website: https://github.com/michbur
 
+
+#### Henrik Nielsen <a href="https://orcid.org/0000-0002-9412-9643"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
+
+```{r, echo=FALSE, out.width = "200px"}
+knitr::include_graphics("../photos/photos-small/Henrik.jpg")
+```
+
+Henrik Nielsen is PhD in Biochemistry and an associate professor at the Technical University of Denmark. His research uses machine learning to predict the subcellular localization of proteins. Henrik's findings are available through his tools, such as [SignalP](https://services.healthtech.dtu.dk/service.php?SignalP) or [TargetP](https://services.healthtech.dtu.dk/service.php?TargetP-2.0) or [DeepLoc](https://services.healthtech.dtu.dk/service.php?DeepLoc-2.0).
+
+Website: https://www.healthtech.dtu.dk/protein-sorting
+
+
 #### Carlos Pintado-Grima <a href="https://orcid.org/0000-0002-8544-959X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
 ```{r, echo=FALSE, out.width = "200px"}
