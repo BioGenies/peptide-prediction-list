@@ -29,17 +29,19 @@ dat <- readRDS("../data/full_dat.RDS") %>%
          webserver = sapply(unlist(.[["webserver"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Web server</a>"), paste0("false"))),
          modelrepository = sapply(unlist(.[["modelrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))),
          trainingrepository = sapply(unlist(.[["trainingrepository"]]), function(i) ifelse(i != FALSE, paste0("<a href='", i,"' >Repository</a>"), paste0("false"))))   %>% 
-  select(c("name", "DOI", "reproducibility", "webserver", "webserveractive", "webserverfunctional", "modelrepository", "trainingrepository",
+  select(c("name", "DOI", "year", "citations", "reproducibility", "webserver", "webserveractive", "webserverfunctional", "modelrepository", "trainingrepository",
            "antiangiogenic", "antibacterial", "antibiofilm", "anticancer", "antifungal", "antihypertensive", "antiinflammatory",
            "antimicrobial", "antiparasitic", "antiviral", "blood-brain barrier", "cell-penetrating", "chemotactic", "neuropeptides",
            "quorum sensing", "surface-binding", "toxic")) %>% 
-  setNames(c("Name", "DOI", "Reproducibility standard", "Web server", "Web server activity", "Web server functionality", "Model repository", 
+  setNames(c("Name", "DOI", "Year", "Citations", "Reproducibility standard", "Web server", "Web server activity", "Web server functionality", "Model repository", 
              "Training repository", "Antiangiogenic", "Antibacterial", "Antibiofilm", "Anticancer", "Antifungal", "Antihypertensive", 
              "Antiinflammatory", "Antimicrobial", "Antiparasitic", "Antiviral", "Blood-brain barrier", "Cell-penetrating", "Chemotactic", 
              "Neuropeptides", "Quorum sensing", "Surface-binding", "Toxic")) 
 
-hover_text <- c("Name of a software or author if software do not have name",
+hover_text <- c("Name of a software or author if software does not have a name",
                 "DOI for publications",
+                "Year of publication",
+                "Number of citations until 2nd September 2022 according to CrossRef",
                 "Reproducibility standard according to Heil et al. 2021. We are additionally using the category below bronze, when a model does not fulfill criteria even for the bronze category.",
                 "Link to the web server",
                 "Indication if a web server is active, i.e. link provided in the publication is working",
@@ -117,8 +119,10 @@ To collect software for the prediction of peptide activities, we searched PubMed
 
 Eligibility criteria:
 
- - the tool needs to be publishen in a peer-review journal until 1st July 2022.
+ - the tool needs to be published in a peer-review journal until 1st July 2022.
  - we include models that are superceded by their next version. 
+ 
+The year of publication and the number of citations were obtained from CrossRef on 2nd September 2022. 
  
 We manually curated all information for software featured in a 'Software information' tab. To do that we carefully analysed publications/pre-prints describing given software looking for the following information: 
 
