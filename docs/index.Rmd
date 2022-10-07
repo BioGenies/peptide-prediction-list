@@ -195,6 +195,17 @@ Katarzyna Sidorczuk received the M.Sc. degree in biotechnology from the Universi
 
 Twitter: https://twitter.com/k_sidorczuk
 
+#### Felix Teufel <a href="https://orcid.org/0000-0003-1275-8065"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
+
+```{r, echo=FALSE, out.width = "200px"}
+knitr::include_graphics("../photos/photos-small/Felix.jpg")
+```
+
+Felix Teufel is a PhD student in Machine Learning at the University of Copenhagen. He obtained his MSc in Biotechnology from ETH Zürich in 2021. His current research interests are understanding peptide function using structural methods, representation learning in biology and protein localization prediction.
+
+Website: https://fteufel.github.io/
+
+
 #### Salvador Ventura <a href="https://orcid.org/0000-0002-9652-6351"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a>
 
 ```{r, echo=FALSE, out.width = "200px"}
