@@ -108,6 +108,8 @@ datatable(dat, extensions = c('Buttons', 'FixedColumns'),
               backgroundColor = styleEqual("false", '#ededed', default = '#d6edff')) 
 ```
 
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
+  
 ### Data collection & curation
 
 To collect software for the prediction of peptide activities, we searched PubMed and Google Scholar databases using queries such as "antimicrobial peptide prediction", "anticancer peptide prediction", etc. We focused on the search results that described software or reviewed/compared available tools for the prediction of a given activity. 
