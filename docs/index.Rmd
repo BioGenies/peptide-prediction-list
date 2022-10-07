@@ -84,7 +84,7 @@ headerCallback <- c(
 ### Software information
 
 ```{r}
-datatable(dat, extensions = c('Buttons', 'FixedColumns'), 
+datatable(dat, extensions = c('Buttons', 'FixedColumns', 'FixedHeader'), 
           filter = "top", style = "bootstrap",
           class = "display",
           rownames = FALSE, escape = FALSE,
@@ -94,6 +94,7 @@ datatable(dat, extensions = c('Buttons', 'FixedColumns'),
                          scrollY = FALSE,
                          scrollX = TRUE,
                          scrollCollapse = FALSE,
+                         fixedHeader = TRUE,
                          # columnDefs = list(list(width = '200px', targets = c(0))),
                          fixedColumns = list(leftColumns = 1),
                          filter = list(clear = FALSE, plain = TRUE),
