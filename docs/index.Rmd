@@ -137,7 +137,7 @@ Then, we checked if the links to the web servers provided in the articles were s
 
 ### About and citation
 
-This website accompanies article: *The dynamic landscape of peptide function prediction* by (in alphabetical order) Oriol Bárcenas, Michał Burdukiewicz, Carlos Pintado-Grima, Katarzyna Sidorczuk and Salvador Ventura.
+This website accompanies the article: *The dynamic landscape of peptide function prediction* by  Oriol Bárcenas, Carlos Pintado-Grima, Katarzyna Sidorczuk, Felix Teufel, Salvador Ventura and Michał Burdukiewicz (Oriol Bárcenas and Carlos Pintado-Grima are joint first authors). 
 
 **Citation**: coming soon
 
