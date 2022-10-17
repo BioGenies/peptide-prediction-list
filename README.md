@@ -6,7 +6,26 @@
 This curated list collects machine learning models dedicated to
 predicting specific properties of peptides.
 
-## Antiangiogenic peptides
+\[1\] ” - [Antiangiogenic peptides](#antiangiogenic-peptides)”  
+\[2\] ” - [Antibacterial peptides (ABP)](#antibacterial-peptides-abp)”  
+\[3\] ” - [Antibiofilm peptides](#antibiofilm-peptides)”  
+\[4\] ” - [Anticancer peptides (ACP)](#anticancer-peptides-acp)”  
+\[5\] ” - [Antifungal peptides (AFP)](#antifungal-peptides-afp)”  
+\[6\] ” - [Antihypertensive peptides](#antihypertensive-peptides)”  
+\[7\] ” - [Antiinflammatory peptides
+(AIP)](#antiinflammatory-peptides-aip)”  
+\[8\] ” - [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)”  
+\[9\] ” - [Antiparasitic peptides (APP)](#antiparasitic-peptides-app)”  
+\[10\] ” - [Antiviral peptides (AVP)](#antiviral-peptides-avp)”  
+\[11\] ” - [Blood-brain barrier peptides
+(BBP)](#blood-brain-barrier-peptides-bbp)” \[12\] ” - [Cell-penetrating
+peptides (CPP)](#cell-penetrating-peptides-cpp)”  
+\[13\] ” - [Chemotactic peptides](#chemotactic-peptides-)”  
+\[14\] ” - [Neuropeptides peptides](#neuropeptides-peptides)”  
+\[15\] ” - [Quorum sensing peptides](#quorum-sensing-peptides)”  
+\[16\] ” - [Surface-binding peptides](#surface-binding-peptides)”  
+\[17\] ” - [Toxic peptides (TP)](#toxic-peptides-tp)”  
+\## Antiangiogenic peptides
 
 1.  AntAngioCOOL (2019):
     [publication](https://doi.org/10.1186/s12967-019-1813-7); [model

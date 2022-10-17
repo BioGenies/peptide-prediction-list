@@ -19,6 +19,7 @@ This curated list collects machine learning models dedicated to predicting speci
 
 ```{r, echo=FALSE,message=FALSE,results='asis'}
 library(glue)
+library(magrittr)
 
 write_entry <- function(x) {
   res <- glue("1. {name} ({year}): [publication](https://doi.org/{doi})", .envir = x)
@@ -62,6 +63,13 @@ all_tools <- sapply(1L:nrow(cat_df), function(ith_category_id) {
            write_entry(part_dat[ith_row, ])
          ), collapse = "\n"), "\n\n\n")
 })
+
+links <- gsub(pattern = " ", replacement = "-", x = cat_df[["nice_names"]]) %>% 
+  gsub(pattern = "[()]", replacement = "", x = .) %>% 
+  tolower() %>% 
+  paste0("(#", ., ")")
+
+paste0(" - [", cat_df[["nice_names"]], "]", links)
 
 cat(all_tools, sep = "\n")
 ```
