@@ -1,0 +1,69 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/",
+  out.width = "100%"
+)
+```
+
+# The dynamic landscape of peptide function prediction
+
+This curated list collects machine learning models dedicated to predicting specific properties of peptides.
+
+```{r, echo=FALSE,message=FALSE,results='asis'}
+library(glue)
+
+write_entry <- function(x) {
+  res <- glue("1. {name} ({year}): [publication](https://doi.org/{doi})", .envir = x)
+  
+  if(is.character(unlist(x[["trainingrepository"]])))
+    res <- glue(res, "[training repository]({trainingrepository})", .sep = "; ", .envir = x)
+  
+  if(is.character(unlist(x[["modelrepository"]])))
+    res <- glue(res, "[model repository]({modelrepository})", .sep = "; ", .envir = x)
+  
+  if(is.character(unlist(x[["webserver"]])))
+    res <- glue(res, "[web server]({webserver})", .sep = "; ", .envir = x)
+  
+  paste0(res, ".")
+}
+
+
+dat <- readRDS("./data/full_dat.RDS")
+
+
+cat_df <- data.frame(categories = c("antiangiogenic", "antibacterial", "antibiofilm", "anticancer", "antifungal", "antihypertensive", 
+                                    "antiinflammatory", "antimicrobial", "antiparasitic", "antiviral", 
+                                    "blood-brain barrier", "cell-penetrating", "chemotactic", "neuropeptides", 
+                                    "quorum sensing", "surface-binding", "toxic"),
+                     nice_names = c("Antiangiogenic peptides", "Antibacterial peptides (ABP)", 
+                                    "Antibiofilm peptides", "Anticancer peptides (ACP)", "Antifungal peptides (AFP)", 
+                                    "Antihypertensive peptides", "Antiinflammatory peptides (AIP)", 
+                                    "Antimicrobial peptides (AMP)", "Antiparasitic peptides (APP)", 
+                                    "Antiviral peptides (AVP)", "Blood-brain barrier peptides (BBP)", 
+                                    "Cell-penetrating peptides (CPP)", "Chemotactic peptides ", 
+                                    "Neuropeptides peptides", "Quorum sensing peptides", 
+                                    "Surface-binding peptides", "Toxic peptides (TP)"))
+
+all_tools <- sapply(1L:nrow(cat_df), function(ith_category_id) {
+  
+  part_dat <- dat[dat[[cat_df[ith_category_id, "categories"]]], ]
+  row_order <- order(part_dat[["name"]])
+  
+  paste0(paste0("## ", cat_df[ith_category_id, "nice_names"], "\n\n"),
+         paste0(sapply(row_order, function(ith_row)
+           write_entry(part_dat[ith_row, ])
+         ), collapse = "\n"), "\n\n\n")
+})
+
+cat(all_tools, sep = "\n")
+```
+
+
