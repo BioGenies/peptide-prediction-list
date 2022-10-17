@@ -122,8 +122,6 @@ Eligibility criteria:
  - the tool needs to be published in a peer-review journal until 1st July 2022.
  - we include models that are superceded by their next version. 
  
-The year of publication and the number of citations were obtained from CrossRef on 2nd September 2022. 
- 
 We manually curated all information for software featured in a 'Software information' tab. To do that we carefully analysed publications/pre-prints describing given software looking for the following information: 
 
 - peptide activities predicted by a model, 
@@ -131,9 +129,13 @@ We manually curated all information for software featured in a 'Software informa
 - link to the model, i.e. a repository with a trained model which can be used for prediction or an address of the model implemented as standalone software (**Model repository** column),
 - link to the repository with all the code and data necessary to train/retrain the model (**Training repository** column).
 
-The availablity of web servers was assessed on XYZ.
+Then, we checked if the links to the web servers provided in the articles were still working and if they function correctly, i.e. provide understandable output after running prediction. This information is indicated in the **Web server activity** and **Web server functionality** columns, respectively. 
 
-Then, we checked if the links to the web servers provided in the articles were still working and if they function correctly, i.e. provide understandable output after running prediction. This information is indicated in the **Web server activity** and **Web server functionality** columns, respectively. We also inspected available code to determine the reproducibility standard (as described in [Heil et al.](https://doi.org/10.1038/s41592-021-01256-7) and indicated in the **Reproducibility standard** column). We are additionally using the category *below bronze*, when a model does not fulfill criteria  even for the bronze category.
+The availability of web servers was assessed on October 14th, 2022. The year of publication and the number of citations were obtained from CrossRef on October 14th, 2022. 
+
+We also inspected available code to determine the reproducibility standard (adapted from [Heil et al.](https://doi.org/10.1038/s41592-021-01256-7) and indicated in the **Reproducibility standard** column). We are additionally using the category *below bronze*, when a model does not fulfill criteria  even for the bronze category.
+
+
 
 ### About and citation
 
