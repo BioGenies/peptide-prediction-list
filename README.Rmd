@@ -69,7 +69,7 @@ links <- gsub(pattern = " ", replacement = "-", x = cat_df[["nice_names"]]) %>%
   tolower() %>% 
   paste0("(#", ., ")")
 
-paste0(" - [", cat_df[["nice_names"]], "]", links)
+cat(paste0("- [", cat_df[["nice_names"]], "]", links), sep = "\n")
 
 cat(all_tools, sep = "\n")
 ```
