@@ -23,8 +23,9 @@ predicting specific properties of peptides.
 -   [Neuropeptides peptides](#neuropeptides-peptides)
 -   [Quorum sensing peptides](#quorum-sensing-peptides)
 -   [Surface-binding peptides](#surface-binding-peptides)
--   [Toxic peptides (TP)](#toxic-peptides-tp) \## Antiangiogenic
-    peptides
+-   [Toxic peptides (TP)](#toxic-peptides-tp)
+
+## Antiangiogenic peptides
 
 1.  AntAngioCOOL (2019):
     [publication](https://doi.org/10.1186/s12967-019-1813-7); [model
