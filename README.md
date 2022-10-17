@@ -4,7 +4,9 @@
 # The dynamic landscape of peptide function prediction
 
 This curated list collects machine learning models dedicated to
-predicting specific properties of peptides.
+predicting specific properties of peptides. For an interactive and
+browse-able list, please visit:
+<https://biogenies.info/peptide-prediction-list/>.
 
 -   [Antiangiogenic peptides](#antiangiogenic-peptides)
 -   [Antibacterial peptides (ABP)](#antibacterial-peptides-abp)
@@ -725,3 +727,12 @@ predicting specific properties of peptides.
 3.  ToxinPred (2014):
     [publication](https://doi.org/10.1007/978-1-4939-2285-7_7); [web
     server](https://webs.iiitd.edu.in/raghava/toxinpred/algo.php).
+
+### About and citation
+
+This list accompanies the article: *The dynamic landscape of peptide
+function prediction* by Oriol Bárcenas, Carlos Pintado-Grima, Katarzyna
+Sidorczuk, Felix Teufel, Salvador Ventura and Michał Burdukiewicz (Oriol
+Bárcenas and Carlos Pintado-Grima are joint first authors).
+
+**Citation**: coming soon

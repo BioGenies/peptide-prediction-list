@@ -15,7 +15,8 @@ knitr::opts_chunk$set(
 
 # The dynamic landscape of peptide function prediction
 
-This curated list collects machine learning models dedicated to predicting specific properties of peptides.
+This curated list collects machine learning models dedicated to predicting specific properties of peptides. 
+For an interactive and browse-able list, please visit: https://biogenies.info/peptide-prediction-list/.
 
 ```{r, echo=FALSE,message=FALSE,results='asis'}
 library(glue)
@@ -74,4 +75,9 @@ cat(paste0("- [", cat_df[["nice_names"]], "]", links), "\n\n", sep = "\n")
 cat(all_tools, sep = "\n")
 ```
 
+### About and citation
 
+This list accompanies the article: *The dynamic landscape of peptide function prediction* by Oriol Bárcenas, Carlos Pintado-Grima, 
+Katarzyna Sidorczuk, Felix Teufel, Salvador Ventura and Michał Burdukiewicz (Oriol Bárcenas and Carlos Pintado-Grima are joint first authors). 
+
+**Citation**: coming soon
