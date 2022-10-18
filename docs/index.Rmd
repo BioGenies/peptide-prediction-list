@@ -122,7 +122,7 @@ Eligibility criteria:
  - the tool needs to be published in a peer-review journal until 1st July 2022.
  - we include models that are superceded by their next version. 
  
-We manually curated all information for software featured in a 'Software information' tab. To do that we carefully analysed publications/pre-prints describing given software looking for the following information: 
+We manually curated all information for software featured in a 'Software information' tab. To do that we carefully analysed publications describing given software looking for the following information: 
 
 - peptide activities predicted by a model, 
 - link to the web server (**Web server** column), 
@@ -133,13 +133,13 @@ Then, we checked if the links to the web servers provided in the articles were s
 
 The availability of web servers was assessed on October 14th, 2022. The year of publication and the number of citations were obtained from CrossRef on October 14th, 2022. 
 
-We also inspected available code to determine the reproducibility standard (adapted from [Heil et al.](https://doi.org/10.1038/s41592-021-01256-7) and indicated in the **Reproducibility standard** column). We are additionally using the category *below bronze*, when a model does not fulfill criteria  even for the bronze category.
+We also inspected available code to determine the reproducibility standard (adapted from [Heil et al.](https://doi.org/10.1038/s41592-021-01256-7) and indicated in the **Reproducibility standard** column). We are additionally using the category *below bronze*, when a model does not fulfill criteria even for the bronze category.
 
 
 
 ### About and citation
 
-This website accompanies the article: *The dynamic landscape of peptide function prediction* by  Oriol Bárcenas, Carlos Pintado-Grima, Katarzyna Sidorczuk, Felix Teufel, Salvador Ventura and Michał Burdukiewicz (Oriol Bárcenas and Carlos Pintado-Grima are joint first authors). 
+This website accompanies the article: *The dynamic landscape of peptide function prediction* by  Oriol Bárcenas, Carlos Pintado-Grima, Katarzyna Sidorczuk, Felix Teufel, Henrik Nielsen, Salvador Ventura and Michał Burdukiewicz (Oriol Bárcenas and Carlos Pintado-Grima are joint first authors). 
 
 **Citation**: coming soon
 
