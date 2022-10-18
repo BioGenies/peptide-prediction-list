@@ -732,7 +732,8 @@ browse-able list, please visit:
 
 This list accompanies the article: *The dynamic landscape of peptide
 function prediction* by Oriol Bárcenas, Carlos Pintado-Grima, Katarzyna
-Sidorczuk, Felix Teufel, Salvador Ventura and Michał Burdukiewicz (Oriol
-Bárcenas and Carlos Pintado-Grima are joint first authors).
+Sidorczuk, Felix Teufel, Henrik Nielsen, Salvador Ventura and Michał
+Burdukiewicz (Oriol Bárcenas and Carlos Pintado-Grima are joint first
+authors).
 
 **Citation**: coming soon
