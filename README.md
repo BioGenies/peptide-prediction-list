@@ -3,9 +3,9 @@
 
 # The dynamic landscape of peptide function prediction
 
-This curated list collects machine learning models dedicated to
-predicting specific properties of peptides. For an interactive and
-browse-able list, please visit:
+This curated list collects peer-reviewed machine learning models
+dedicated to predicting specific properties of peptides. For an
+interactive and browse-able list, please visit:
 <https://biogenies.info/peptide-prediction-list/>.
 
 -   [Antiangiogenic peptides](#antiangiogenic-peptides)
