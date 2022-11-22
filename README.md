@@ -8,24 +8,24 @@ dedicated to predicting specific properties of peptides. For an
 interactive and browse-able list, please visit:
 <https://biogenies.info/peptide-prediction-list/>.
 
--   [Antiangiogenic peptides](#antiangiogenic-peptides)
--   [Antibacterial peptides (ABP)](#antibacterial-peptides-abp)
--   [Antibiofilm peptides](#antibiofilm-peptides)
--   [Anticancer peptides (ACP)](#anticancer-peptides-acp)
--   [Antifungal peptides (AFP)](#antifungal-peptides-afp)
--   [Antihypertensive peptides](#antihypertensive-peptides)
--   [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-aip)
--   [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)
--   [Antiparasitic peptides (APP)](#antiparasitic-peptides-app)
--   [Antiviral peptides (AVP)](#antiviral-peptides-avp)
--   [Blood-brain barrier peptides
-    (BBP)](#blood-brain-barrier-peptides-bbp)
--   [Cell-penetrating peptides (CPP)](#cell-penetrating-peptides-cpp)
--   [Chemotactic peptides](#chemotactic-peptides-)
--   [Neuropeptides peptides](#neuropeptides-peptides)
--   [Quorum sensing peptides](#quorum-sensing-peptides)
--   [Surface-binding peptides](#surface-binding-peptides)
--   [Toxic peptides (TP)](#toxic-peptides-tp)
+- [Antiangiogenic peptides](#antiangiogenic-peptides)
+- [Antibacterial peptides (ABP)](#antibacterial-peptides-abp)
+- [Antibiofilm peptides](#antibiofilm-peptides)
+- [Anticancer peptides (ACP)](#anticancer-peptides-acp)
+- [Antifungal peptides (AFP)](#antifungal-peptides-afp)
+- [Antihypertensive peptides](#antihypertensive-peptides)
+- [Antiinflammatory peptides (AIP)](#antiinflammatory-peptides-aip)
+- [Antimicrobial peptides (AMP)](#antimicrobial-peptides-amp)
+- [Antiparasitic peptides (APP)](#antiparasitic-peptides-app)
+- [Antiviral peptides (AVP)](#antiviral-peptides-avp)
+- [Blood-brain barrier peptides
+  (BBP)](#blood-brain-barrier-peptides-bbp)
+- [Cell-penetrating peptides (CPP)](#cell-penetrating-peptides-cpp)
+- [Chemotactic peptides](#chemotactic-peptides-)
+- [Neuropeptides peptides](#neuropeptides-peptides)
+- [Quorum sensing peptides](#quorum-sensing-peptides)
+- [Surface-binding peptides](#surface-binding-peptides)
+- [Toxic peptides (TP)](#toxic-peptides-tp)
 
 ## Antiangiogenic peptides
 
@@ -730,11 +730,11 @@ interactive and browse-able list, please visit:
 
 ### About and citation
 
-This list accompanies the article accepted for publication at
+This website accompanies the article accepted for publication at
 Computational and Structural Biotechnology Journal: *The dynamic
 landscape of peptide function prediction* by Oriol Bárcenas, Carlos
 Pintado-Grima, Katarzyna Sidorczuk, Felix Teufel, Henrik Nielsen,
 Salvador Ventura and Michał Burdukiewicz (Oriol Bárcenas and Carlos
 Pintado-Grima are joint first authors).
 
-**Citation**: coming soon
+**Citation**: coming soon.
