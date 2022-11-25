@@ -1,6 +1,6 @@
 ---
 title: The dynamic landscape of peptide function prediction
-output:                                                                                                    
+output: 
   html_document:
     theme: paper                                                                 
 ---      

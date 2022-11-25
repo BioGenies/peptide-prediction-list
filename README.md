@@ -730,11 +730,11 @@ interactive and browse-able list, please visit:
 
 ### About and citation
 
-This website accompanies the article accepted for publication at
-Computational and Structural Biotechnology Journal: *The dynamic
-landscape of peptide function prediction* by Oriol Bárcenas, Carlos
-Pintado-Grima, Katarzyna Sidorczuk, Felix Teufel, Henrik Nielsen,
-Salvador Ventura and Michał Burdukiewicz (Oriol Bárcenas and Carlos
-Pintado-Grima are joint first authors).
+This website accompanies our publication: *The dynamic landscape of
+peptide function prediction*.
 
-**Citation**: coming soon.
+**Citation**: Oriol Bárcenas, Carlos Pintado-Grima, Katarzyna Sidorczuk,
+Felix Teufel, Henrik Nielsen, Salvador Ventura and Michał Burdukiewicz,
+*The dynamic landscape of peptide function prediction*, Computational
+and Structural Biotechnology Journal,
+[10.1016/j.csbj.2022.11.043](https://doi.org/10.1016/j.csbj.2022.11.043).
