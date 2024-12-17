@@ -630,6 +630,10 @@ interactive and browse-able list, please visit:
 16. TPpred-ATMV (2022):
     [publication](https://doi.org/10.1093/bioinformatics/btac200);
     [model repository](https://github.com/cokeyk/TPpred-ATMV).
+17. GraphCPP (2024):
+    [publication](https://doi.org/10.1111/bph.17388);
+    [model repository](https://github.com/attilaimre99/GraphCPP);
+    [data repository](https://github.com/attilaimre99/CPP1708).
 
 ## Chemotactic peptides
 
